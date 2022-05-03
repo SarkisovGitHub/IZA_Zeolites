@@ -1,0 +1,31 @@
+ WEI.xyz
+V_A^3    32718.004
+M _g/mol    32445.900
+RHO_g/cm^3        1.647
+PLD_A         2.92
+LCD_A         3.69
+ D            3
+ Total               
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Total               
+V_He_A^3    25156.437
+V_He_cm^3/g        0.467
+V_G_A^3    16072.542
+V_G cm^3/g:        0.298
+V_PO A^3:    10757.352
+V_PO cm^3/g:        0.200
+FV_PO:      0.32879
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    25156.437
+V_He_cm^3/g        0.467
+V_G_A^3    16072.536
+V_G cm^3/g:        0.298
+V_PO A^3:    10720.381
+V_PO cm^3/g:        0.199
+FV_PO:      0.32766

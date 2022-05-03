@@ -1,0 +1,31 @@
+ MAR.xyz
+V_A^3    36468.185
+M _g/mol    38935.080
+RHO_g/cm^3        1.773
+PLD_A         1.92
+LCD_A         5.80
+ D            1
+ Total               
+S_AC_A^2      1042.49
+S_AC_m^2/cm^3       285.86
+S_AC_m^2/g       161.24
+ Total               
+V_He_A^3    23868.820
+V_He_cm^3/g        0.369
+V_G_A^3    16553.125
+V_G cm^3/g:        0.256
+V_PO A^3:    10850.574
+V_PO cm^3/g:        0.168
+FV_PO:      0.29754
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    23868.820
+V_He_cm^3/g        0.369
+V_G_A^3    16553.083
+V_G cm^3/g:        0.256
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

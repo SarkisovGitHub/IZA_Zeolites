@@ -1,0 +1,31 @@
+ ASV.xyz
+V_A^3    18850.348
+M _g/mol    21630.600
+RHO_g/cm^3        1.905
+PLD_A         3.98
+LCD_A         4.91
+ D            1
+ Total               
+S_AC_A^2       250.62
+S_AC_m^2/cm^3       132.95
+S_AC_m^2/g        69.78
+ Total               
+V_He_A^3    10075.609
+V_He_cm^3/g        0.281
+V_G_A^3     7588.455
+V_G cm^3/g:        0.211
+V_PO A^3:     4613.022
+V_PO cm^3/g:        0.128
+FV_PO:      0.24472
+ Network-accessible  
+S_AC_A^2       234.63
+S_AC_m^2/cm^3       124.47
+S_AC_m^2/g        65.32
+ Network-accessible  
+V_He_A^3    10075.609
+V_He_cm^3/g        0.281
+V_G_A^3     7588.040
+V_G cm^3/g:        0.211
+V_PO A^3:     4531.578
+V_PO cm^3/g:        0.126
+FV_PO:      0.24040

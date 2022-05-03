@@ -1,0 +1,31 @@
+ IHW.xyz
+V_A^3    48517.089
+M _g/mol    53836.160
+RHO_g/cm^3        1.843
+PLD_A         3.10
+LCD_A         6.19
+ D            2
+ Total               
+S_AC_A^2      1974.23
+S_AC_m^2/cm^3       406.91
+S_AC_m^2/g       220.84
+ Total               
+V_He_A^3    25932.614
+V_He_cm^3/g        0.290
+V_G_A^3    20886.015
+V_G cm^3/g:        0.234
+V_PO A^3:    13210.405
+V_PO cm^3/g:        0.148
+FV_PO:      0.27228
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    25932.614
+V_He_cm^3/g        0.290
+V_G_A^3    20886.015
+V_G cm^3/g:        0.234
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

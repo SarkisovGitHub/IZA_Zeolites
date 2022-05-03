@@ -1,0 +1,31 @@
+ ITE.xyz
+V_A^3    48852.953
+M _g/mol    46145.280
+RHO_g/cm^3        1.569
+PLD_A         3.76
+LCD_A         7.77
+ D            1
+ Total               
+S_AC_A^2      3632.91
+S_AC_m^2/cm^3       743.64
+S_AC_m^2/g       474.11
+ Total               
+V_He_A^3    34243.174
+V_He_cm^3/g        0.447
+V_G_A^3    24783.762
+V_G cm^3/g:        0.323
+V_PO A^3:    19497.386
+V_PO cm^3/g:        0.254
+FV_PO:      0.39910
+ Network-accessible  
+S_AC_A^2      3716.55
+S_AC_m^2/cm^3       760.76
+S_AC_m^2/g       485.02
+ Network-accessible  
+V_He_A^3    34243.174
+V_He_cm^3/g        0.447
+V_G_A^3    24783.762
+V_G cm^3/g:        0.323
+V_PO A^3:    19497.386
+V_PO cm^3/g:        0.254
+FV_PO:      0.39910

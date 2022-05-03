@@ -1,0 +1,31 @@
+ CTH.xyz
+V_A^3    23691.852
+M _g/mol    23072.640
+RHO_g/cm^3        1.617
+PLD_A         6.96
+LCD_A         7.65
+ D            1
+ Total               
+S_AC_A^2      1755.10
+S_AC_m^2/cm^3       740.80
+S_AC_m^2/g       458.09
+ Total               
+V_He_A^3    14671.646
+V_He_cm^3/g        0.383
+V_G_A^3    11884.630
+V_G cm^3/g:        0.310
+V_PO A^3:     8816.018
+V_PO cm^3/g:        0.230
+FV_PO:      0.37211
+ Network-accessible  
+S_AC_A^2      1763.39
+S_AC_m^2/cm^3       744.30
+S_AC_m^2/g       460.26
+ Network-accessible  
+V_He_A^3    14671.646
+V_He_cm^3/g        0.383
+V_G_A^3    11884.617
+V_G cm^3/g:        0.310
+V_PO A^3:     8796.994
+V_PO cm^3/g:        0.230
+FV_PO:      0.37131

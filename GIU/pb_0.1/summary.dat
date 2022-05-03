@@ -1,0 +1,31 @@
+ GIU.xyz
+V_A^3    50436.208
+M _g/mol    51913.440
+RHO_g/cm^3        1.709
+PLD_A         2.05
+LCD_A         5.80
+ D            1
+ Total               
+S_AC_A^2      1944.03
+S_AC_m^2/cm^3       385.44
+S_AC_m^2/g       225.51
+ Total               
+V_He_A^3    32955.459
+V_He_cm^3/g        0.382
+V_G_A^3    23795.480
+V_G cm^3/g:        0.276
+V_PO A^3:    15614.594
+V_PO cm^3/g:        0.181
+FV_PO:      0.30959
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    32955.459
+V_He_cm^3/g        0.382
+V_G_A^3    23795.480
+V_G cm^3/g:        0.276
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

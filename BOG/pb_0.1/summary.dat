@@ -1,0 +1,31 @@
+ BOG.xyz
+V_A^3    71746.592
+M _g/mol    69217.920
+RHO_g/cm^3        1.602
+PLD_A         6.25
+LCD_A         7.53
+ D            1
+ Total               
+S_AC_A^2      6449.06
+S_AC_m^2/cm^3       898.87
+S_AC_m^2/g       561.09
+ Total               
+V_He_A^3    49403.696
+V_He_cm^3/g        0.430
+V_G_A^3    36227.087
+V_G cm^3/g:        0.315
+V_PO A^3:    28840.384
+V_PO cm^3/g:        0.251
+FV_PO:      0.40198
+ Network-accessible  
+S_AC_A^2      6426.46
+S_AC_m^2/cm^3       895.72
+S_AC_m^2/g       559.12
+ Network-accessible  
+V_He_A^3    49403.696
+V_He_cm^3/g        0.430
+V_G_A^3    36225.910
+V_G cm^3/g:        0.315
+V_PO A^3:    28658.317
+V_PO cm^3/g:        0.249
+FV_PO:      0.39944

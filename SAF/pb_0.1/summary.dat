@@ -1,0 +1,31 @@
+ SAF.xyz
+V_A^3    26948.878
+M _g/mol    30763.520
+RHO_g/cm^3        1.896
+PLD_A         5.72
+LCD_A         6.17
+ D            1
+ Total               
+S_AC_A^2      1438.69
+S_AC_m^2/cm^3       533.86
+S_AC_m^2/g       281.63
+ Total               
+V_He_A^3    10495.730
+V_He_cm^3/g        0.205
+V_G_A^3    11146.777
+V_G cm^3/g:        0.218
+V_PO A^3:     6017.030
+V_PO cm^3/g:        0.118
+FV_PO:      0.22328
+ Network-accessible  
+S_AC_A^2      1433.15
+S_AC_m^2/cm^3       531.80
+S_AC_m^2/g       280.55
+ Network-accessible  
+V_He_A^3    10495.730
+V_He_cm^3/g        0.205
+V_G_A^3    11146.777
+V_G cm^3/g:        0.218
+V_PO A^3:     5926.741
+V_PO cm^3/g:        0.116
+FV_PO:      0.21993

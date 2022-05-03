@@ -1,0 +1,31 @@
+ SVR.xyz
+V_A^3    42791.020
+M _g/mol    45246.560
+RHO_g/cm^3        1.756
+PLD_A         4.12
+LCD_A         5.35
+ D            3
+ Total               
+S_AC_A^2      2065.63
+S_AC_m^2/cm^3       482.73
+S_AC_m^2/g       274.93
+ Total               
+V_He_A^3    24199.536
+V_He_cm^3/g        0.322
+V_G_A^3    19158.172
+V_G cm^3/g:        0.255
+V_PO A^3:    12973.914
+V_PO cm^3/g:        0.173
+FV_PO:      0.30319
+ Network-accessible  
+S_AC_A^2      2040.14
+S_AC_m^2/cm^3       476.77
+S_AC_m^2/g       271.54
+ Network-accessible  
+V_He_A^3    24199.536
+V_He_cm^3/g        0.322
+V_G_A^3    19158.019
+V_G cm^3/g:        0.255
+V_PO A^3:    13050.443
+V_PO cm^3/g:        0.174
+FV_PO:      0.30498

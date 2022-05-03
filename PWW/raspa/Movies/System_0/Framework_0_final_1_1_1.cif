@@ -1,0 +1,55 @@
+data_zeolite
+
+_audit_creation_method RASPA-1.0
+_audit_creation_date 2021-6-7
+_audit_author_name ''
+
+_cell_length_a    20.7622
+_cell_length_b    11.7067
+_cell_length_c    11.0461
+_cell_angle_alpha 90
+_cell_angle_beta  119.047
+_cell_angle_gamma 90
+_cell_volume      42248.6
+
+_symmetry_cell_setting          monoclinic
+_symmetry_space_group_name_Hall '-C 2yc'
+_symmetry_space_group_name_H-M  'C 1 2/c 1'
+_symmetry_Int_Tables_number     15
+
+loop_
+_symmetry_equiv_pos_as_xyz
+ 'x,y,z'
+ '-x,y,-z+1/2'
+ '-x,-y,-z'
+ 'x,-y,z+1/2'
+ 'x+1/2,y+1/2,z'
+ '-x+1/2,y+1/2,-z+1/2'
+ '-x+1/2,-y+1/2,-z'
+ 'x+1/2,-y+1/2,z+1/2'
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+T        Si     0.836390000000     0.654150000000     0.367040000000     0     
+T        Si     0.712810000000     0.578140000000     0.431480000000     0     
+T        Si     0.827430000000     0.586980000000     0.752350000000     0     
+T        Si     0.914800000000     0.742610000000     0.661800000000     0     
+T        Si     0.729570000000     0.327560000000     0.366210000000     0     
+O        O      0.759560000000     0.637630000000     0.367590000000     0     
+O        O      0.854910000000     0.540690000000     0.307430000000     0     
+O        O      0.901080000000     0.677910000000     0.522610000000     0     
+O        O      0.829920000000     0.761430000000     0.270490000000     0     
+O        O      0.758590000000     0.581970000000     0.597920000000     0     
+O        O      0.635970000000     0.644820000000     0.378680000000     0     
+O        O      0.695770000000     0.447390000000     0.380370000000     0     
+O        O      0.893730000000     0.658330000000     0.752420000000     0     
+O        O      0.802360000000     0.648530000000     0.853210000000     0     
+O        O      0.500000000000     0.279310000000     0.750000000000     0     
+O        O      0.750000000000     0.250000000000     0.500000000000     0     
+
+

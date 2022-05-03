@@ -1,0 +1,31 @@
+ SAS.xyz
+V_A^3    25690.605
+M _g/mol    23072.640
+RHO_g/cm^3        1.491
+PLD_A         3.76
+LCD_A         8.50
+ D            1
+ Total               
+S_AC_A^2      2036.98
+S_AC_m^2/cm^3       792.89
+S_AC_m^2/g       531.67
+ Total               
+V_He_A^3    18349.405
+V_He_cm^3/g        0.479
+V_G_A^3    13657.695
+V_G cm^3/g:        0.356
+V_PO A^3:    10829.187
+V_PO cm^3/g:        0.283
+FV_PO:      0.42152
+ Network-accessible  
+S_AC_A^2      2042.85
+S_AC_m^2/cm^3       795.18
+S_AC_m^2/g       533.20
+ Network-accessible  
+V_He_A^3    18349.405
+V_He_cm^3/g        0.479
+V_G_A^3    13657.695
+V_G cm^3/g:        0.356
+V_PO A^3:    10860.599
+V_PO cm^3/g:        0.283
+FV_PO:      0.42275

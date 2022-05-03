@@ -1,0 +1,31 @@
+ STO.xyz
+V_A^3    47907.945
+M _g/mol    53836.160
+RHO_g/cm^3        1.866
+PLD_A         5.62
+LCD_A         6.29
+ D            1
+ Total               
+S_AC_A^2      2586.82
+S_AC_m^2/cm^3       539.96
+S_AC_m^2/g       289.36
+ Total               
+V_He_A^3    20256.350
+V_He_cm^3/g        0.227
+V_G_A^3    20241.571
+V_G cm^3/g:        0.226
+V_PO A^3:    11106.550
+V_PO cm^3/g:        0.124
+FV_PO:      0.23183
+ Network-accessible  
+S_AC_A^2      2611.38
+S_AC_m^2/cm^3       545.08
+S_AC_m^2/g       292.11
+ Network-accessible  
+V_He_A^3    20256.350
+V_He_cm^3/g        0.227
+V_G_A^3    20241.567
+V_G cm^3/g:        0.226
+V_PO A^3:    10999.268
+V_PO cm^3/g:        0.123
+FV_PO:      0.22959

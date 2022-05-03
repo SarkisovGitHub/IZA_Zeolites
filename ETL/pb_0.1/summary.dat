@@ -1,0 +1,31 @@
+ ETL.xyz
+V_A^3    31914.756
+M _g/mol    34608.960
+RHO_g/cm^3        1.801
+PLD_A         2.85
+LCD_A         5.88
+ D            1
+ Total               
+S_AC_A^2       699.25
+S_AC_m^2/cm^3       219.10
+S_AC_m^2/g       121.67
+ Total               
+V_He_A^3    18978.285
+V_He_cm^3/g        0.330
+V_G_A^3    14175.016
+V_G cm^3/g:        0.247
+V_PO A^3:     8317.899
+V_PO cm^3/g:        0.145
+FV_PO:      0.26063
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    18978.285
+V_He_cm^3/g        0.330
+V_G_A^3    14175.016
+V_G cm^3/g:        0.247
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

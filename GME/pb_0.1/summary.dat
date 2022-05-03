@@ -1,0 +1,31 @@
+ GME.xyz
+V_A^3    43052.137
+M _g/mol    38935.080
+RHO_g/cm^3        1.502
+PLD_A         6.63
+LCD_A         7.22
+ D            1
+ Total               
+S_AC_A^2      2987.99
+S_AC_m^2/cm^3       694.04
+S_AC_m^2/g       462.16
+ Total               
+V_He_A^3    33925.673
+V_He_cm^3/g        0.525
+V_G_A^3    23076.125
+V_G cm^3/g:        0.357
+V_PO A^3:    18707.814
+V_PO cm^3/g:        0.289
+FV_PO:      0.43454
+ Network-accessible  
+S_AC_A^2      2812.55
+S_AC_m^2/cm^3       653.29
+S_AC_m^2/g       435.02
+ Network-accessible  
+V_He_A^3    33925.673
+V_He_cm^3/g        0.525
+V_G_A^3    23076.118
+V_G cm^3/g:        0.357
+V_PO A^3:    13261.845
+V_PO cm^3/g:        0.205
+FV_PO:      0.30804

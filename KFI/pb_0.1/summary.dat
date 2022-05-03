@@ -1,0 +1,31 @@
+ KFI.xyz
+V_A^3    51296.397
+M _g/mol    46145.280
+RHO_g/cm^3        1.494
+PLD_A         3.60
+LCD_A        10.19
+ D            3
+ Total               
+S_AC_A^2      3583.73
+S_AC_m^2/cm^3       698.63
+S_AC_m^2/g       467.69
+ Total               
+V_He_A^3    39793.601
+V_He_cm^3/g        0.519
+V_G_A^3    27607.265
+V_G cm^3/g:        0.360
+V_PO A^3:    22091.333
+V_PO cm^3/g:        0.288
+FV_PO:      0.43066
+ Network-accessible  
+S_AC_A^2      3525.98
+S_AC_m^2/cm^3       687.37
+S_AC_m^2/g       460.15
+ Network-accessible  
+V_He_A^3    39793.601
+V_He_cm^3/g        0.519
+V_G_A^3    27607.265
+V_G cm^3/g:        0.360
+V_PO A^3:    22116.180
+V_PO cm^3/g:        0.289
+FV_PO:      0.43114

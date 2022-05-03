@@ -1,0 +1,31 @@
+ LTN.xyz
+V_A^3    45201.713
+M _g/mol    46145.280
+RHO_g/cm^3        1.695
+PLD_A         1.48
+LCD_A         9.65
+ D            3
+ Total               
+S_AC_A^2      1986.35
+S_AC_m^2/cm^3       439.44
+S_AC_m^2/g       259.23
+ Total               
+V_He_A^3    31034.436
+V_He_cm^3/g        0.405
+V_G_A^3    21527.285
+V_G cm^3/g:        0.281
+V_PO A^3:    15015.281
+V_PO cm^3/g:        0.196
+FV_PO:      0.33218
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    31034.436
+V_He_cm^3/g        0.405
+V_G_A^3    21527.285
+V_G cm^3/g:        0.281
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

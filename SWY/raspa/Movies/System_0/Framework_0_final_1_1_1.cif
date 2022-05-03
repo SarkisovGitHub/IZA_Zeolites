@@ -1,0 +1,68 @@
+data_zeolite
+
+_audit_creation_method RASPA-1.0
+_audit_creation_date 2021-6-7
+_audit_author_name ''
+
+_cell_length_a    13.0721
+_cell_length_b    13.0721
+_cell_length_c    30.2618
+_cell_angle_alpha 90
+_cell_angle_beta  90
+_cell_angle_gamma 120
+_cell_volume      40304.7
+
+_symmetry_cell_setting          hexagonal
+_symmetry_space_group_name_Hall '-P 6c 2c'
+_symmetry_space_group_name_H-M  'P 63/m m c'
+_symmetry_Int_Tables_number     194
+
+loop_
+_symmetry_equiv_pos_as_xyz
+ 'x,y,z'
+ '-y,x-y,z'
+ '-x+y,-x,z'
+ '-x,-y,z+1/2'
+ 'y,-x+y,z+1/2'
+ 'x-y,x,z+1/2'
+ 'y,x,-z'
+ 'x-y,-y,-z'
+ '-x,-x+y,-z'
+ '-y,-x,-z+1/2'
+ '-x+y,y,-z+1/2'
+ 'x,x-y,-z+1/2'
+ '-x,-y,-z'
+ 'y,-x+y,-z'
+ 'x-y,x,-z'
+ 'x,y,-z+1/2'
+ '-y,x-y,-z+1/2'
+ '-x+y,-x,-z+1/2'
+ '-y,-x,z'
+ '-x+y,y,z'
+ 'x,x-y,z'
+ 'y,x,z+1/2'
+ 'x-y,-y,z+1/2'
+ '-x,-x+y,z+1/2'
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+T        Si     0.095620000000     0.425960000000     0.125060000000     0     
+T        Si     0.999870000000     0.234350000000     0.199120000000     0     
+T        Si     0.000480000000     0.234750000000     0.050920000000     0     
+O        O      0.234540000000     0.469080000000     0.124850000000     0     
+O        O      0.035090000000     0.347990000000     0.168560000000     0     
+O        O      0.076600000000     0.538300000000     0.125120000000     0     
+O        O      0.034130000000     0.347610000000     0.081730000000     0     
+O        O      0.096880000000     0.193760000000     0.193440000000     0     
+O        O      0.995390000000     0.267860000000     0.250000000000     0     
+O        O      0.872160000000     0.127840000000     0.184650000000     0     
+O        O      0.096790000000     0.193580000000     0.057600000000     0     
+O        O      0.000000000000     0.270110000000     0.000000000000     0     
+O        O      0.871640000000     0.128360000000     0.064260000000     0     
+
+

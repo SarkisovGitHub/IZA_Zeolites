@@ -1,0 +1,31 @@
+ CGS.xyz
+V_A^3    30307.625
+M _g/mol    30763.520
+RHO_g/cm^3        1.686
+PLD_A         3.29
+LCD_A         5.37
+ D            1
+ Total               
+S_AC_A^2       944.33
+S_AC_m^2/cm^3       311.58
+S_AC_m^2/g       184.86
+ Total               
+V_He_A^3    20533.886
+V_He_cm^3/g        0.402
+V_G_A^3    14507.796
+V_G cm^3/g:        0.284
+V_PO A^3:    10168.514
+V_PO cm^3/g:        0.199
+FV_PO:      0.33551
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    20533.886
+V_He_cm^3/g        0.402
+V_G_A^3    14507.570
+V_G cm^3/g:        0.284
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

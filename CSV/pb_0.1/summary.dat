@@ -1,0 +1,31 @@
+ CSV.xyz
+V_A^3    33253.498
+M _g/mol    32445.900
+RHO_g/cm^3        1.620
+PLD_A         4.76
+LCD_A         7.07
+ D            1
+ Total               
+S_AC_A^2      2951.23
+S_AC_m^2/cm^3       887.50
+S_AC_m^2/g       547.77
+ Total               
+V_He_A^3    23441.785
+V_He_cm^3/g        0.435
+V_G_A^3    16560.492
+V_G cm^3/g:        0.307
+V_PO A^3:    13491.833
+V_PO cm^3/g:        0.250
+FV_PO:      0.40573
+ Network-accessible  
+S_AC_A^2      2936.45
+S_AC_m^2/cm^3       883.05
+S_AC_m^2/g       545.02
+ Network-accessible  
+V_He_A^3    23441.785
+V_He_cm^3/g        0.435
+V_G_A^3    16559.108
+V_G cm^3/g:        0.307
+V_PO A^3:    13414.533
+V_PO cm^3/g:        0.249
+FV_PO:      0.40340

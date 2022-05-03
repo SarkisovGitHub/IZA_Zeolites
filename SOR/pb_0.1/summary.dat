@@ -1,0 +1,31 @@
+ SOR.xyz
+V_A^3    44977.322
+M _g/mol    46145.280
+RHO_g/cm^3        1.704
+PLD_A         6.18
+LCD_A         6.55
+ D            1
+ Total               
+S_AC_A^2      3077.46
+S_AC_m^2/cm^3       684.22
+S_AC_m^2/g       401.62
+ Total               
+V_He_A^3    25273.444
+V_He_cm^3/g        0.330
+V_G_A^3    21279.877
+V_G cm^3/g:        0.278
+V_PO A^3:    13110.532
+V_PO cm^3/g:        0.171
+FV_PO:      0.29149
+ Network-accessible  
+S_AC_A^2      2991.16
+S_AC_m^2/cm^3       665.04
+S_AC_m^2/g       390.36
+ Network-accessible  
+V_He_A^3    25273.444
+V_He_cm^3/g        0.330
+V_G_A^3    21279.877
+V_G cm^3/g:        0.278
+V_PO A^3:    13210.548
+V_PO cm^3/g:        0.172
+FV_PO:      0.29372

@@ -1,0 +1,31 @@
+ PAU.xyz
+V_A^3    42282.401
+M _g/mol    40377.120
+RHO_g/cm^3        1.586
+PLD_A         3.59
+LCD_A         9.84
+ D            3
+ Total               
+S_AC_A^2      1417.84
+S_AC_m^2/cm^3       335.33
+S_AC_m^2/g       211.47
+ Total               
+V_He_A^3    34692.130
+V_He_cm^3/g        0.517
+V_G_A^3    21546.493
+V_G cm^3/g:        0.321
+V_PO A^3:    17476.361
+V_PO cm^3/g:        0.261
+FV_PO:      0.41332
+ Network-accessible  
+S_AC_A^2       567.37
+S_AC_m^2/cm^3       134.18
+S_AC_m^2/g        84.62
+ Network-accessible  
+V_He_A^3    34692.130
+V_He_cm^3/g        0.517
+V_G_A^3    21546.493
+V_G cm^3/g:        0.321
+V_PO A^3:     5125.911
+V_PO cm^3/g:        0.076
+FV_PO:      0.12123

@@ -1,0 +1,31 @@
+ FAU.xyz
+V_A^3   115430.167
+M _g/mol    92290.560
+RHO_g/cm^3        1.328
+PLD_A         6.75
+LCD_A        10.70
+ D            3
+ Total               
+S_AC_A^2     14160.78
+S_AC_m^2/cm^3      1226.78
+S_AC_m^2/g       924.02
+ Total               
+V_He_A^3    93352.314
+V_He_cm^3/g        0.609
+V_G_A^3    68048.709
+V_G cm^3/g:        0.444
+V_PO A^3:    59529.010
+V_PO cm^3/g:        0.388
+FV_PO:      0.51571
+ Network-accessible  
+S_AC_A^2     13707.24
+S_AC_m^2/cm^3      1187.49
+S_AC_m^2/g       894.42
+ Network-accessible  
+V_He_A^3    93352.314
+V_He_cm^3/g        0.609
+V_G_A^3    68048.709
+V_G cm^3/g:        0.444
+V_PO A^3:    54010.260
+V_PO cm^3/g:        0.352
+FV_PO:      0.46790

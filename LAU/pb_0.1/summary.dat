@@ -1,0 +1,31 @@
+ LAU.xyz
+V_A^3    21337.507
+M _g/mol    23072.640
+RHO_g/cm^3        1.796
+PLD_A         3.51
+LCD_A         5.51
+ D            1
+ Total               
+S_AC_A^2       771.97
+S_AC_m^2/cm^3       361.79
+S_AC_m^2/g       201.49
+ Total               
+V_He_A^3    13308.397
+V_He_cm^3/g        0.347
+V_G_A^3     9466.346
+V_G cm^3/g:        0.247
+V_PO A^3:     6518.526
+V_PO cm^3/g:        0.170
+FV_PO:      0.30550
+ Network-accessible  
+S_AC_A^2       803.10
+S_AC_m^2/cm^3       376.38
+S_AC_m^2/g       209.61
+ Network-accessible  
+V_He_A^3    13308.397
+V_He_cm^3/g        0.347
+V_G_A^3     9466.346
+V_G cm^3/g:        0.247
+V_PO A^3:     6453.208
+V_PO cm^3/g:        0.168
+FV_PO:      0.30243

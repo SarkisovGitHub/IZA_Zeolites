@@ -1,0 +1,31 @@
+ UOE.xyz
+V_A^3    24576.606
+M _g/mol    25956.720
+RHO_g/cm^3        1.754
+PLD_A         4.01
+LCD_A         4.45
+ D            1
+ Total               
+S_AC_A^2        57.45
+S_AC_m^2/cm^3        23.38
+S_AC_m^2/g        13.33
+ Total               
+V_He_A^3    15659.629
+V_He_cm^3/g        0.363
+V_G_A^3    11230.429
+V_G cm^3/g:        0.261
+V_PO A^3:     7525.511
+V_PO cm^3/g:        0.175
+FV_PO:      0.30621
+ Network-accessible  
+S_AC_A^2        49.31
+S_AC_m^2/cm^3        20.06
+S_AC_m^2/g        11.44
+ Network-accessible  
+V_He_A^3    15659.629
+V_He_cm^3/g        0.363
+V_G_A^3    11230.429
+V_G cm^3/g:        0.261
+V_PO A^3:     5843.192
+V_PO cm^3/g:        0.136
+FV_PO:      0.23775

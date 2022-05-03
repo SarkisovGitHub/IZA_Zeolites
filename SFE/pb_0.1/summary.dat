@@ -1,0 +1,31 @@
+ SFE.xyz
+V_A^3    24814.879
+M _g/mol    25235.700
+RHO_g/cm^3        1.689
+PLD_A         5.65
+LCD_A         6.15
+ D            1
+ Total               
+S_AC_A^2      1711.08
+S_AC_m^2/cm^3       689.54
+S_AC_m^2/g       408.32
+ Total               
+V_He_A^3    12884.451
+V_He_cm^3/g        0.307
+V_G_A^3    11876.042
+V_G cm^3/g:        0.283
+V_PO A^3:     7523.472
+V_PO cm^3/g:        0.180
+FV_PO:      0.30318
+ Network-accessible  
+S_AC_A^2      1723.68
+S_AC_m^2/cm^3       694.61
+S_AC_m^2/g       411.33
+ Network-accessible  
+V_He_A^3    12884.451
+V_He_cm^3/g        0.307
+V_G_A^3    11876.042
+V_G cm^3/g:        0.283
+V_PO A^3:     7367.896
+V_PO cm^3/g:        0.176
+FV_PO:      0.29691

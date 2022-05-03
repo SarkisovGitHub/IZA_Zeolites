@@ -1,0 +1,31 @@
+ UFI.xyz
+V_A^3    37889.455
+M _g/mol    34608.960
+RHO_g/cm^3        1.517
+PLD_A         3.37
+LCD_A         9.53
+ D            2
+ Total               
+S_AC_A^2      3069.40
+S_AC_m^2/cm^3       810.09
+S_AC_m^2/g       534.09
+ Total               
+V_He_A^3    30237.243
+V_He_cm^3/g        0.526
+V_G_A^3    20098.990
+V_G cm^3/g:        0.350
+V_PO A^3:    17190.666
+V_PO cm^3/g:        0.299
+FV_PO:      0.45371
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    30237.243
+V_He_cm^3/g        0.526
+V_G_A^3    20098.990
+V_G cm^3/g:        0.350
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

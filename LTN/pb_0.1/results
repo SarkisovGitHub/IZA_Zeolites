@@ -1,0 +1,187 @@
+ !-------------------------------------------------------!
+ ! Welcome to PB4.0                                      !
+ ! Developed by: Lev Sarkisov, 2012/20                   !
+ ! Cite: Sarkisov, Harrison, Molecular Simulation, 2011  !
+ !-------------------------------------------------------!
+ 
+ !-------------------------------------------------------!
+ ! The program first goes through several preliminary    !
+ ! initializations, associated with reading parameters.  !
+ !-------------------------------------------------------!
+ 
+ Step 1/10
+ !-------------------------------------------------------!
+ ! Proceed with initialization and data input            !
+ !-------------------------------------------------------!
+ 
+ !-------------------------------------------------------!
+ ! Initialization complete                               !
+ !-------------------------------------------------------!
+ 
+ System volume in A^3:       45201.713
+ System mass, g/mol:         46145.280
+ System density, g/cm^3:         1.695
+ 
+ -------------------------------------------------------
+ If calculated density is  different from the  reported 
+ crystallographic one,  make sure you remove unresolved 
+ atoms from the adsorbent structure file
+ ------------------------------------------------------
+ 
+ Step 2/10
+ !-------------------------------------------------------!
+ ! Starting preliminary lattice calculations             !
+ !-------------------------------------------------------!
+ 
+ !-------------------------------------------------------!
+ ! Preliminary lattice complete                          !
+ !-------------------------------------------------------!
+ 
+ !-------------------------------------------------------!
+ ! Starting limiting pore diameter and maximum pore size !
+ ! analysis                                              !
+ !-------------------------------------------------------!
+ 
+ Pore limiting diameter in A:         1.48
+ Maximum pore diameter in A:          9.65
+ The system is percolated in            3  dimensions (3D pores)
+ 
+ !-------------------------------------------------------!
+ ! Limiting pore diameter and maximum pore size          !
+ ! analysis complete                                     !
+ !-------------------------------------------------------!
+ 
+ 
+ !=======================================================!
+ 
+ !--------------------------------------------------------!
+ ! Phase 1: Total properties                              !
+ !--------------------------------------------------------!
+ 
+ Step 3/10
+ !-------------------------------------------------------!
+ ! Starting surface area calculations                    !
+ !-------------------------------------------------------!
+ 
+ Total surface area in A^2:                      1986.35
+ Total surface area per volume in m^2/cm^3:       439.44
+ Total surface area per mass in m^2/g:            259.23
+ 
+ !-------------------------------------------------------!
+ ! Surface area calculations complete                    !
+ !-------------------------------------------------------!
+ 
+ Step 4/10
+ !-------------------------------------------------------!
+ ! Starting pore size distribution calculations          !
+ !-------------------------------------------------------!
+ 
+ Total cumulative PSD and differential
+ PSD have been stored in files Total_psd_cumulative.txt
+ and Total_ psd.txt
+ 
+ !-------------------------------------------------------!
+ ! Pore size distribution calculations complete          !
+ !-------------------------------------------------------!
+ 
+ Step 5/10
+ !-------------------------------------------------------!
+ ! Starting pore volume calculations                     !
+ !-------------------------------------------------------!
+ 
+ Total helium volume in A^3:                       31034.436
+ Total helium volume in cm^3/g:                        0.405
+ 
+ Total geometric volume in A^3:                    21527.285
+ Total geometric volume in cm^3/g:                     0.281
+ 
+ Total probe-occupiable volume in A^3:              15015.281
+ Total probe-occupiable volume in cm^3/g:               0.196
+ Total fraction of free volume:                      0.33218
+ 
+ !-------------------------------------------------------!
+ ! Pore volume calculations complete                     !
+ !-------------------------------------------------------!
+ 
+ 
+ !=======================================================!
+ 
+ !--------------------------------------------------------!
+ ! Phase 2: Network-accessible properties                 !
+ !--------------------------------------------------------!
+ 
+ Step 6/10
+ !-------------------------------------------------------!
+ ! Generation of  point-accessible lattice               !
+ !-------------------------------------------------------!
+ 
+ !-------------------------------------------------------!
+ ! Generation of point-accessible lattice complete	 !
+ !-------------------------------------------------------!
+ 
+ Step 7/10
+ !-------------------------------------------------------!
+ ! Generation of helium-accessible lattice               !
+ !-------------------------------------------------------!
+ 
+ !-------------------------------------------------------!
+ ! Generation of helium-accessible lattice complete      !
+ !-------------------------------------------------------!
+ 
+ Step 8/10
+ !-------------------------------------------------------!
+ ! Generation of nitrogen-accessible lattice             !
+ !-------------------------------------------------------!
+ 
+ !-------------------------------------------------------!
+ ! Generation of nitrogen-accessible lattice complete    !
+ !-------------------------------------------------------!
+ 
+ Step 9/10
+ !-------------------------------------------------------!
+ ! Starting surface area calculations                    !
+ !-------------------------------------------------------!
+ 
+ Network-accessible surface area in A^2:                         0.00
+ Network-accessible surface area per volume in m^2/cm^3:         0.00
+ Network-accessible surface area per mass in m^2/g:              0.00
+ No nitrogen accessible surface area 
+ 
+ !-------------------------------------------------------!
+ ! Surface area calculations complete                    !
+ !-------------------------------------------------------!
+ 
+ Step 10/10
+ !-------------------------------------------------------!
+ ! Starting pore size distribution calculations          !
+ !-------------------------------------------------------!
+ 
+  No nitrogen accessible porosity 
+ 
+ 
+ !-------------------------------------------------------!
+ ! Pore size distribution calculations complete          !
+ !-------------------------------------------------------!
+ 
+ Step 11/10
+ !-------------------------------------------------------!
+ ! Starting pore volume calculations                     !
+ !-------------------------------------------------------!
+ 
+ Network-accessible helium volume in A^3:                       31034.436
+ Network-accessible helium volume in cm^3/g:                        0.405
+ 
+ Network-accessible geometric volume in A^3:                    21527.285
+ Network-accessible geometric volume in cm^3/g:                     0.281
+ 
+ Network-accessible probe-occupiable volume in A^3:                  0.000
+ Network-accessible probe-occupiable volume in cm^3/g:               0.000
+ Network-accessible fraction of free volume:                      0.00000
+ 
+ !-------------------------------------------------------!
+ ! Pore volume calculations complete                     !
+ !-------------------------------------------------------!
+ 
+ !-------------------------------------------------------!
+ ! Simulation complete                                   !
+ !-------------------------------------------------------!

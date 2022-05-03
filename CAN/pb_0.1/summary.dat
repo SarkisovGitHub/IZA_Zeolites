@@ -1,0 +1,31 @@
+ CAN.xyz
+V_A^3    31962.166
+M _g/mol    32445.900
+RHO_g/cm^3        1.686
+PLD_A         5.48
+LCD_A         5.76
+ D            1
+ Total               
+S_AC_A^2      1357.76
+S_AC_m^2/cm^3       424.80
+S_AC_m^2/g       252.01
+ Total               
+V_He_A^3    20284.151
+V_He_cm^3/g        0.376
+V_G_A^3    15318.616
+V_G cm^3/g:        0.284
+V_PO A^3:    10194.539
+V_PO cm^3/g:        0.189
+FV_PO:      0.31896
+ Network-accessible  
+S_AC_A^2      1359.04
+S_AC_m^2/cm^3       425.20
+S_AC_m^2/g       252.24
+ Network-accessible  
+V_He_A^3    20284.151
+V_He_cm^3/g        0.376
+V_G_A^3    15318.616
+V_G cm^3/g:        0.284
+V_PO A^3:     7071.073
+V_PO cm^3/g:        0.131
+FV_PO:      0.22123

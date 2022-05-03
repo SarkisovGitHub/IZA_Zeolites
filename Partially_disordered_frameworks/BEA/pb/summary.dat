@@ -1,0 +1,31 @@
+ BEA.xyz
+V_A^3    37605.893
+M _g/mol    34608.960
+RHO_g/cm^3        1.528
+PLD_A         5.63
+LCD_A         6.19
+ D            1
+ Total               
+S_AC_A^2      4395.35
+S_AC_m^2/cm^3      1168.79
+S_AC_m^2/g       764.81
+ Total               
+V_He_A^3    26850.994
+V_He_cm^3/g        0.467
+V_G_A^3    19851.130
+V_G cm^3/g:        0.345
+V_PO A^3:    16188.597
+V_PO cm^3/g:        0.282
+FV_PO:      0.43048
+ Network-accessible  
+S_AC_A^2      4293.85
+S_AC_m^2/cm^3      1141.80
+S_AC_m^2/g       747.15
+ Network-accessible  
+V_He_A^3    26850.994
+V_He_cm^3/g        0.467
+V_G_A^3    19851.130
+V_G cm^3/g:        0.345
+V_PO A^3:    16133.014
+V_PO cm^3/g:        0.281
+FV_PO:      0.42900

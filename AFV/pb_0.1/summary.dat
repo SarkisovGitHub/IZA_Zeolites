@@ -1,0 +1,31 @@
+ AFV.xyz
+V_A^3    51471.853
+M _g/mol    48668.850
+RHO_g/cm^3        1.570
+PLD_A         2.92
+LCD_A         6.49
+ D            2
+ Total               
+S_AC_A^2      3387.82
+S_AC_m^2/cm^3       658.19
+S_AC_m^2/g       419.20
+ Total               
+V_He_A^3    40910.043
+V_He_cm^3/g        0.506
+V_G_A^3    26496.232
+V_G cm^3/g:        0.328
+V_PO A^3:    21859.391
+V_PO cm^3/g:        0.270
+FV_PO:      0.42469
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    40910.043
+V_He_cm^3/g        0.506
+V_G_A^3    26496.216
+V_G cm^3/g:        0.328
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

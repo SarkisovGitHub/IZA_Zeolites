@@ -1,0 +1,31 @@
+ MEI.xyz
+V_A^3    41722.162
+M _g/mol    36772.020
+RHO_g/cm^3        1.464
+PLD_A         6.43
+LCD_A         7.58
+ D            1
+ Total               
+S_AC_A^2      4180.41
+S_AC_m^2/cm^3      1001.96
+S_AC_m^2/g       684.62
+ Total               
+V_He_A^3    32328.932
+V_He_cm^3/g        0.529
+V_G_A^3    22876.614
+V_G cm^3/g:        0.375
+V_PO A^3:    19005.891
+V_PO cm^3/g:        0.311
+FV_PO:      0.45553
+ Network-accessible  
+S_AC_A^2      4277.06
+S_AC_m^2/cm^3      1025.13
+S_AC_m^2/g       700.45
+ Network-accessible  
+V_He_A^3    32328.932
+V_He_cm^3/g        0.529
+V_G_A^3    22876.567
+V_G cm^3/g:        0.375
+V_PO A^3:    19037.879
+V_PO cm^3/g:        0.312
+FV_PO:      0.45630

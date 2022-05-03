@@ -1,0 +1,31 @@
+ AET.xyz
+V_A^3    31625.652
+M _g/mol    34608.960
+RHO_g/cm^3        1.817
+PLD_A         7.09
+LCD_A         7.87
+ D            1
+ Total               
+S_AC_A^2      1906.72
+S_AC_m^2/cm^3       602.90
+S_AC_m^2/g       331.78
+ Total               
+V_He_A^3    13225.896
+V_He_cm^3/g        0.230
+V_G_A^3    13955.024
+V_G cm^3/g:        0.243
+V_PO A^3:     7932.035
+V_PO cm^3/g:        0.138
+FV_PO:      0.25081
+ Network-accessible  
+S_AC_A^2      1925.07
+S_AC_m^2/cm^3       608.71
+S_AC_m^2/g       334.97
+ Network-accessible  
+V_He_A^3    13225.896
+V_He_cm^3/g        0.230
+V_G_A^3    13955.004
+V_G cm^3/g:        0.243
+V_PO A^3:     8029.709
+V_PO cm^3/g:        0.140
+FV_PO:      0.25390

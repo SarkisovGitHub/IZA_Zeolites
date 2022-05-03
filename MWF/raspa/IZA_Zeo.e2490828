@@ -1,0 +1,11 @@
+_cell_length_a: 44.744380
+_cell_length_b: 44.744380
+_cell_length_c: 44.744380
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: I M -3 M found space group: 529
+_symmetry_Int_Tables_number: 529
+space group found from symmetry elements: 529 (nr elements: 96)
+End reading cif-file
+'force_field.def' file not found and therefore not used

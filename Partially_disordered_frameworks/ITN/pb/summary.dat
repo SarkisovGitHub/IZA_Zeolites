@@ -1,0 +1,31 @@
+ ITN.xyz
+V_A^3    60890.364
+M _g/mol    58690.620
+RHO_g/cm^3        1.601
+PLD_A         4.10
+LCD_A         6.43
+ D            2
+ Total               
+S_AC_A^2      4982.20
+S_AC_m^2/cm^3       818.22
+S_AC_m^2/g       511.21
+ Total               
+V_He_A^3    41446.372
+V_He_cm^3/g        0.425
+V_G_A^3    30673.065
+V_G cm^3/g:        0.315
+V_PO A^3:    24004.741
+V_PO cm^3/g:        0.246
+FV_PO:      0.39423
+ Network-accessible  
+S_AC_A^2      5055.37
+S_AC_m^2/cm^3       830.24
+S_AC_m^2/g       518.72
+ Network-accessible  
+V_He_A^3    41446.372
+V_He_cm^3/g        0.425
+V_G_A^3    30672.311
+V_G cm^3/g:        0.315
+V_PO A^3:    24040.958
+V_PO cm^3/g:        0.247
+FV_PO:      0.39482

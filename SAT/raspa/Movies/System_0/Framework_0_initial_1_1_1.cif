@@ -1,0 +1,76 @@
+data_zeolite
+
+_audit_creation_method RASPA-1.0
+_audit_creation_date 2021-6-7
+_audit_author_name ''
+
+_cell_length_a    12.871
+_cell_length_b    12.871
+_cell_length_c    30.577
+_cell_angle_alpha 90
+_cell_angle_beta  90
+_cell_angle_gamma 120
+_cell_volume      39481.4
+
+_symmetry_cell_setting          trigonal
+_symmetry_space_group_name_Hall '-R 3 2"'
+_symmetry_space_group_name_H-M  'R -3 m'
+_symmetry_Int_Tables_number     166
+
+loop_
+_symmetry_equiv_pos_as_xyz
+ 'x,y,z'
+ '-y,x-y,z'
+ '-x+y,-x,z'
+ 'y,x,-z'
+ 'x-y,-y,-z'
+ '-x,-x+y,-z'
+ '-x,-y,-z'
+ 'y,-x+y,-z'
+ 'x-y,x,-z'
+ '-y,-x,z'
+ '-x+y,y,z'
+ 'x,x-y,z'
+ 'x+2/3,y+1/3,z+1/3'
+ '-y+2/3,x-y+1/3,z+1/3'
+ '-x+y+2/3,-x+1/3,z+1/3'
+ 'y+2/3,x+1/3,-z+1/3'
+ 'x-y+2/3,-y+1/3,-z+1/3'
+ '-x+2/3,-x+y+1/3,-z+1/3'
+ '-x+2/3,-y+1/3,-z+1/3'
+ 'y+2/3,-x+y+1/3,-z+1/3'
+ 'x-y+2/3,x+1/3,-z+1/3'
+ '-y+2/3,-x+1/3,z+1/3'
+ '-x+y+2/3,y+1/3,z+1/3'
+ 'x+2/3,x-y+1/3,z+1/3'
+ 'x+1/3,y+2/3,z+2/3'
+ '-y+1/3,x-y+2/3,z+2/3'
+ '-x+y+1/3,-x+2/3,z+2/3'
+ 'y+1/3,x+2/3,-z+2/3'
+ 'x-y+1/3,-y+2/3,-z+2/3'
+ '-x+1/3,-x+y+2/3,-z+2/3'
+ '-x+1/3,-y+2/3,-z+2/3'
+ 'y+1/3,-x+y+2/3,-z+2/3'
+ 'x-y+1/3,x+2/3,-z+2/3'
+ '-y+1/3,-x+2/3,z+2/3'
+ '-x+y+1/3,y+2/3,z+2/3'
+ 'x+1/3,x-y+2/3,z+2/3'
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+O        O      0.666700000000     0.685300000000     0.333300000000     0     
+O        O      0.871200000000     0.742300000000     0.295500000000     0     
+O        O      0.685600000000     0.703700000000     0.247800000000     0     
+O        O      0.794700000000     0.897400000000     0.296700000000     0     
+O        O      0.607900000000     0.941200000000     0.166700000000     0     
+O        O      0.464200000000     0.928300000000     0.230200000000     0     
+O        O      0.527100000000     0.763500000000     0.223000000000     0     
+T        Si     0.754600000000     0.757400000000     0.293300000000     0     
+T        Si     0.571100000000     0.903900000000     0.216900000000     0     
+
+

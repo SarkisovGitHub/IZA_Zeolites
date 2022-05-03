@@ -1,0 +1,31 @@
+ PTO.xyz
+V_A^3    31684.214
+M _g/mol    34608.960
+RHO_g/cm^3        1.814
+PLD_A         3.29
+LCD_A         4.81
+ D            2
+ Total               
+S_AC_A^2       953.66
+S_AC_m^2/cm^3       300.99
+S_AC_m^2/g       165.94
+ Total               
+V_He_A^3    18284.101
+V_He_cm^3/g        0.318
+V_G_A^3    13927.850
+V_G cm^3/g:        0.242
+V_PO A^3:     9016.890
+V_PO cm^3/g:        0.157
+FV_PO:      0.28459
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    18284.101
+V_He_cm^3/g        0.318
+V_G_A^3    13927.671
+V_G cm^3/g:        0.242
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

@@ -1,0 +1,31 @@
+ SGT.xyz
+V_A^3    32996.112
+M _g/mol    34608.960
+RHO_g/cm^3        1.742
+PLD_A         1.57
+LCD_A         7.24
+ D            3
+ Total               
+S_AC_A^2      1734.14
+S_AC_m^2/cm^3       525.56
+S_AC_m^2/g       301.75
+ Total               
+V_He_A^3    21510.744
+V_He_cm^3/g        0.374
+V_G_A^3    15246.383
+V_G cm^3/g:        0.265
+V_PO A^3:    10580.990
+V_PO cm^3/g:        0.184
+FV_PO:      0.32067
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    21510.744
+V_He_cm^3/g        0.374
+V_G_A^3    15246.383
+V_G cm^3/g:        0.265
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

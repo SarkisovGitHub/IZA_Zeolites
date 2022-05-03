@@ -1,0 +1,31 @@
+ CON.xyz
+V_A^3    42796.213
+M _g/mol    40377.120
+RHO_g/cm^3        1.567
+PLD_A         5.15
+LCD_A         6.96
+ D            1
+ Total               
+S_AC_A^2      4323.09
+S_AC_m^2/cm^3      1010.16
+S_AC_m^2/g       644.78
+ Total               
+V_He_A^3    30374.425
+V_He_cm^3/g        0.453
+V_G_A^3    22053.489
+V_G cm^3/g:        0.329
+V_PO A^3:    17803.782
+V_PO cm^3/g:        0.266
+FV_PO:      0.41601
+ Network-accessible  
+S_AC_A^2      4274.33
+S_AC_m^2/cm^3       998.76
+S_AC_m^2/g       637.50
+ Network-accessible  
+V_He_A^3    30374.425
+V_He_cm^3/g        0.453
+V_G_A^3    22053.398
+V_G cm^3/g:        0.329
+V_PO A^3:    17936.029
+V_PO cm^3/g:        0.268
+FV_PO:      0.41910

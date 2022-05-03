@@ -1,0 +1,31 @@
+ PUN.xyz
+V_A^3    28862.994
+M _g/mol    25956.720
+RHO_g/cm^3        1.493
+PLD_A         3.77
+LCD_A         5.02
+ D            2
+ Total               
+S_AC_A^2      1013.54
+S_AC_m^2/cm^3       351.15
+S_AC_m^2/g       235.15
+ Total               
+V_He_A^3    24456.371
+V_He_cm^3/g        0.567
+V_G_A^3    15561.062
+V_G cm^3/g:        0.361
+V_PO A^3:    12984.151
+V_PO cm^3/g:        0.301
+FV_PO:      0.44985
+ Network-accessible  
+S_AC_A^2       972.62
+S_AC_m^2/cm^3       336.98
+S_AC_m^2/g       225.65
+ Network-accessible  
+V_He_A^3    24456.371
+V_He_cm^3/g        0.567
+V_G_A^3    15560.654
+V_G cm^3/g:        0.361
+V_PO A^3:    12467.196
+V_PO cm^3/g:        0.289
+FV_PO:      0.43194

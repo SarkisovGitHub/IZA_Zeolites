@@ -1,0 +1,31 @@
+ UOS.xyz
+V_A^3    32689.008
+M _g/mol    34608.960
+RHO_g/cm^3        1.758
+PLD_A         3.66
+LCD_A         5.34
+ D            1
+ Total               
+S_AC_A^2       665.97
+S_AC_m^2/cm^3       203.73
+S_AC_m^2/g       115.88
+ Total               
+V_He_A^3    19531.642
+V_He_cm^3/g        0.340
+V_G_A^3    14879.344
+V_G cm^3/g:        0.259
+V_PO A^3:     9684.965
+V_PO cm^3/g:        0.169
+FV_PO:      0.29628
+ Network-accessible  
+S_AC_A^2       649.77
+S_AC_m^2/cm^3       198.77
+S_AC_m^2/g       113.06
+ Network-accessible  
+V_He_A^3    19531.642
+V_He_cm^3/g        0.340
+V_G_A^3    14879.344
+V_G cm^3/g:        0.259
+V_PO A^3:     9759.362
+V_PO cm^3/g:        0.170
+FV_PO:      0.29855

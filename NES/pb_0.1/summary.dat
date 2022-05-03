@@ -1,0 +1,31 @@
+ NES.xyz
+V_A^3    33084.550
+M _g/mol    32686.240
+RHO_g/cm^3        1.641
+PLD_A         4.56
+LCD_A         6.36
+ D            1
+ Total               
+S_AC_A^2      2578.28
+S_AC_m^2/cm^3       779.30
+S_AC_m^2/g       475.02
+ Total               
+V_He_A^3    19978.666
+V_He_cm^3/g        0.368
+V_G_A^3    16305.664
+V_G cm^3/g:        0.300
+V_PO A^3:    11454.729
+V_PO cm^3/g:        0.211
+FV_PO:      0.34623
+ Network-accessible  
+S_AC_A^2      2622.41
+S_AC_m^2/cm^3       792.64
+S_AC_m^2/g       483.16
+ Network-accessible  
+V_He_A^3    19978.666
+V_He_cm^3/g        0.368
+V_G_A^3    16305.664
+V_G cm^3/g:        0.300
+V_PO A^3:    11466.143
+V_PO cm^3/g:        0.211
+FV_PO:      0.34657

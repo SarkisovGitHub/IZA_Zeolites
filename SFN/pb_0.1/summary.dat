@@ -1,0 +1,31 @@
+ SFN.xyz
+V_A^3    38662.200
+M _g/mol    38454.400
+RHO_g/cm^3        1.652
+PLD_A         6.24
+LCD_A         7.44
+ D            1
+ Total               
+S_AC_A^2      2966.67
+S_AC_m^2/cm^3       767.33
+S_AC_m^2/g       464.59
+ Total               
+V_He_A^3    20530.345
+V_He_cm^3/g        0.322
+V_G_A^3    18929.220
+V_G cm^3/g:        0.296
+V_PO A^3:    12317.243
+V_PO cm^3/g:        0.193
+FV_PO:      0.31859
+ Network-accessible  
+S_AC_A^2      3029.40
+S_AC_m^2/cm^3       783.56
+S_AC_m^2/g       474.42
+ Network-accessible  
+V_He_A^3    20530.345
+V_He_cm^3/g        0.322
+V_G_A^3    18929.220
+V_G cm^3/g:        0.296
+V_PO A^3:    12273.706
+V_PO cm^3/g:        0.192
+FV_PO:      0.31746

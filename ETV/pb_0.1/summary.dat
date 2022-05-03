@@ -1,0 +1,31 @@
+ ETV.xyz
+V_A^3    29095.748
+M _g/mol    30282.840
+RHO_g/cm^3        1.728
+PLD_A         2.68
+LCD_A         5.36
+ D            1
+ Total               
+S_AC_A^2       953.83
+S_AC_m^2/cm^3       327.82
+S_AC_m^2/g       189.68
+ Total               
+V_He_A^3    19184.291
+V_He_cm^3/g        0.382
+V_G_A^3    13548.467
+V_G cm^3/g:        0.269
+V_PO A^3:     9367.410
+V_PO cm^3/g:        0.186
+FV_PO:      0.32195
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    19184.291
+V_He_cm^3/g        0.382
+V_G_A^3    13547.535
+V_G cm^3/g:        0.269
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

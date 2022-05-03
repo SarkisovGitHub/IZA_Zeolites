@@ -1,0 +1,31 @@
+ TER.xyz
+V_A^3    56328.544
+M _g/mol    57681.600
+RHO_g/cm^3        1.700
+PLD_A         4.70
+LCD_A         6.36
+ D            1
+ Total               
+S_AC_A^2      3167.70
+S_AC_m^2/cm^3       562.36
+S_AC_m^2/g       330.72
+ Total               
+V_He_A^3    35922.131
+V_He_cm^3/g        0.375
+V_G_A^3    26724.233
+V_G cm^3/g:        0.279
+V_PO A^3:    19353.689
+V_PO cm^3/g:        0.202
+FV_PO:      0.34359
+ Network-accessible  
+S_AC_A^2      3220.83
+S_AC_m^2/cm^3       571.79
+S_AC_m^2/g       336.26
+ Network-accessible  
+V_He_A^3    35922.131
+V_He_cm^3/g        0.375
+V_G_A^3    26724.233
+V_G cm^3/g:        0.279
+V_PO A^3:    19321.620
+V_PO cm^3/g:        0.202
+FV_PO:      0.34302

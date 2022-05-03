@@ -1,0 +1,31 @@
+ FER.xyz
+V_A^3    32820.176
+M _g/mol    34608.960
+RHO_g/cm^3        1.751
+PLD_A         4.13
+LCD_A         5.67
+ D            1
+ Total               
+S_AC_A^2      1066.22
+S_AC_m^2/cm^3       324.87
+S_AC_m^2/g       185.53
+ Total               
+V_He_A^3    21123.921
+V_He_cm^3/g        0.368
+V_G_A^3    15048.268
+V_G cm^3/g:        0.262
+V_PO A^3:    10660.193
+V_PO cm^3/g:        0.185
+FV_PO:      0.32481
+ Network-accessible  
+S_AC_A^2       488.36
+S_AC_m^2/cm^3       148.80
+S_AC_m^2/g        84.98
+ Network-accessible  
+V_He_A^3    21123.921
+V_He_cm^3/g        0.368
+V_G_A^3    15048.268
+V_G cm^3/g:        0.262
+V_PO A^3:     5364.707
+V_PO cm^3/g:        0.093
+FV_PO:      0.16346

@@ -1,0 +1,31 @@
+ ERI.xyz
+V_A^3    40310.580
+M _g/mol    38935.080
+RHO_g/cm^3        1.604
+PLD_A         2.95
+LCD_A         6.54
+ D            1
+ Total               
+S_AC_A^2      2799.58
+S_AC_m^2/cm^3       694.50
+S_AC_m^2/g       433.02
+ Total               
+V_He_A^3    29261.974
+V_He_cm^3/g        0.453
+V_G_A^3    20322.450
+V_G cm^3/g:        0.314
+V_PO A^3:    15632.029
+V_PO cm^3/g:        0.242
+FV_PO:      0.38779
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    29261.974
+V_He_cm^3/g        0.453
+V_G_A^3    20322.450
+V_G cm^3/g:        0.314
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

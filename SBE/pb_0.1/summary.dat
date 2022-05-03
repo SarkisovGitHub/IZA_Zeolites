@@ -1,0 +1,31 @@
+ SBE.xyz
+V_A^3    37283.110
+M _g/mol    30763.520
+RHO_g/cm^3        1.370
+PLD_A         6.82
+LCD_A        12.05
+ D            2
+ Total               
+S_AC_A^2      3815.48
+S_AC_m^2/cm^3      1023.38
+S_AC_m^2/g       746.90
+ Total               
+V_He_A^3    28190.869
+V_He_cm^3/g        0.552
+V_G_A^3    21464.250
+V_G cm^3/g:        0.420
+V_PO A^3:    17759.521
+V_PO cm^3/g:        0.348
+FV_PO:      0.47634
+ Network-accessible  
+S_AC_A^2      3750.40
+S_AC_m^2/cm^3      1005.92
+S_AC_m^2/g       734.16
+ Network-accessible  
+V_He_A^3    28190.869
+V_He_cm^3/g        0.552
+V_G_A^3    21464.250
+V_G cm^3/g:        0.420
+V_PO A^3:    17001.833
+V_PO cm^3/g:        0.333
+FV_PO:      0.45602

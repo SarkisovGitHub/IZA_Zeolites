@@ -1,0 +1,31 @@
+ AFX.xyz
+V_A^3    57405.072
+M _g/mol    51913.440
+RHO_g/cm^3        1.502
+PLD_A         3.26
+LCD_A         7.24
+ D            3
+ Total               
+S_AC_A^2      4167.23
+S_AC_m^2/cm^3       725.93
+S_AC_m^2/g       483.41
+ Total               
+V_He_A^3    45413.572
+V_He_cm^3/g        0.527
+V_G_A^3    30731.937
+V_G cm^3/g:        0.357
+V_PO A^3:    25215.554
+V_PO cm^3/g:        0.293
+FV_PO:      0.43926
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    45413.572
+V_He_cm^3/g        0.527
+V_G_A^3    30731.928
+V_G cm^3/g:        0.357
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

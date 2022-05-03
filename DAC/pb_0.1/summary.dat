@@ -1,0 +1,31 @@
+ DAC.xyz
+V_A^3    33003.592
+M _g/mol    34608.960
+RHO_g/cm^3        1.741
+PLD_A         3.69
+LCD_A         4.79
+ D            1
+ Total               
+S_AC_A^2       546.22
+S_AC_m^2/cm^3       165.50
+S_AC_m^2/g        95.05
+ Total               
+V_He_A^3    22124.543
+V_He_cm^3/g        0.385
+V_G_A^3    15205.364
+V_G cm^3/g:        0.265
+V_PO A^3:    11139.449
+V_PO cm^3/g:        0.194
+FV_PO:      0.33752
+ Network-accessible  
+S_AC_A^2       464.22
+S_AC_m^2/cm^3       140.66
+S_AC_m^2/g        80.78
+ Network-accessible  
+V_He_A^3    22124.543
+V_He_cm^3/g        0.385
+V_G_A^3    15205.347
+V_G cm^3/g:        0.265
+V_PO A^3:     7915.903
+V_PO cm^3/g:        0.138
+FV_PO:      0.23985

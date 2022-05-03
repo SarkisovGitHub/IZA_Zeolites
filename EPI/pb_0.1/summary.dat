@@ -1,0 +1,31 @@
+ EPI.xyz
+V_A^3    43428.934
+M _g/mol    46145.280
+RHO_g/cm^3        1.764
+PLD_A         3.17
+LCD_A         4.97
+ D            1
+ Total               
+S_AC_A^2       673.25
+S_AC_m^2/cm^3       155.02
+S_AC_m^2/g        87.86
+ Total               
+V_He_A^3    28995.264
+V_He_cm^3/g        0.378
+V_G_A^3    19759.393
+V_G cm^3/g:        0.258
+V_PO A^3:    14272.210
+V_PO cm^3/g:        0.186
+FV_PO:      0.32863
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    28995.264
+V_He_cm^3/g        0.378
+V_G_A^3    19759.390
+V_G cm^3/g:        0.258
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

@@ -1,0 +1,31 @@
+ VNI.xyz
+V_A^3    30739.192
+M _g/mol    32445.900
+RHO_g/cm^3        1.753
+PLD_A         2.28
+LCD_A         4.29
+ D            2
+ Total               
+S_AC_A^2        13.78
+S_AC_m^2/cm^3         4.48
+S_AC_m^2/g         2.56
+ Total               
+V_He_A^3    17615.690
+V_He_cm^3/g        0.327
+V_G_A^3    14086.176
+V_G cm^3/g:        0.261
+V_PO A^3:     5859.849
+V_PO cm^3/g:        0.109
+FV_PO:      0.19063
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    17615.690
+V_He_cm^3/g        0.327
+V_G_A^3    14086.158
+V_G cm^3/g:        0.261
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

@@ -1,0 +1,31 @@
+ OSI.xyz
+V_A^3    36082.854
+M _g/mol    38454.400
+RHO_g/cm^3        1.770
+PLD_A         5.73
+LCD_A         6.12
+ D            1
+ Total               
+S_AC_A^2      1809.33
+S_AC_m^2/cm^3       501.44
+S_AC_m^2/g       283.35
+ Total               
+V_He_A^3    15173.123
+V_He_cm^3/g        0.238
+V_G_A^3    16370.478
+V_G cm^3/g:        0.256
+V_PO A^3:     8486.456
+V_PO cm^3/g:        0.133
+FV_PO:      0.23519
+ Network-accessible  
+S_AC_A^2      1738.92
+S_AC_m^2/cm^3       481.92
+S_AC_m^2/g       272.32
+ Network-accessible  
+V_He_A^3    15173.123
+V_He_cm^3/g        0.238
+V_G_A^3    16370.478
+V_G cm^3/g:        0.256
+V_PO A^3:     8384.959
+V_PO cm^3/g:        0.131
+FV_PO:      0.23238

@@ -1,0 +1,31 @@
+ PWN.xyz
+V_A^3   123019.305
+M _g/mol   115363.200
+RHO_g/cm^3        1.557
+PLD_A         3.64
+LCD_A        10.00
+ D            3
+ Total               
+S_AC_A^2      5755.65
+S_AC_m^2/cm^3       467.87
+S_AC_m^2/g       300.45
+ Total               
+V_He_A^3   101528.520
+V_He_cm^3/g        0.530
+V_G_A^3    63790.781
+V_G cm^3/g:        0.333
+V_PO A^3:    52416.885
+V_PO cm^3/g:        0.274
+FV_PO:      0.42609
+ Network-accessible  
+S_AC_A^2      3250.74
+S_AC_m^2/cm^3       264.25
+S_AC_m^2/g       169.69
+ Network-accessible  
+V_He_A^3   101528.520
+V_He_cm^3/g        0.530
+V_G_A^3    63790.781
+V_G cm^3/g:        0.333
+V_PO A^3:    26619.893
+V_PO cm^3/g:        0.139
+FV_PO:      0.21639

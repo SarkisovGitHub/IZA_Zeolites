@@ -1,0 +1,31 @@
+ LEV.xyz
+V_A^3    61027.873
+M _g/mol    58402.620
+RHO_g/cm^3        1.589
+PLD_A         2.98
+LCD_A         6.61
+ D            2
+ Total               
+S_AC_A^2      3667.17
+S_AC_m^2/cm^3       600.90
+S_AC_m^2/g       378.14
+ Total               
+V_He_A^3    47782.546
+V_He_cm^3/g        0.493
+V_G_A^3    31034.301
+V_G cm^3/g:        0.320
+V_PO A^3:    25323.990
+V_PO cm^3/g:        0.261
+FV_PO:      0.41496
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    47782.546
+V_He_cm^3/g        0.493
+V_G_A^3    31034.301
+V_G cm^3/g:        0.320
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

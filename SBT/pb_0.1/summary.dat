@@ -1,0 +1,31 @@
+ SBT.xyz
+V_A^3    42004.364
+M _g/mol    34608.960
+RHO_g/cm^3        1.368
+PLD_A         6.74
+LCD_A        10.68
+ D            2
+ Total               
+S_AC_A^2      5045.49
+S_AC_m^2/cm^3      1201.18
+S_AC_m^2/g       877.94
+ Total               
+V_He_A^3    31923.862
+V_He_cm^3/g        0.555
+V_G_A^3    24253.745
+V_G cm^3/g:        0.422
+V_PO A^3:    20336.765
+V_PO cm^3/g:        0.354
+FV_PO:      0.48416
+ Network-accessible  
+S_AC_A^2      5073.27
+S_AC_m^2/cm^3      1207.80
+S_AC_m^2/g       882.78
+ Network-accessible  
+V_He_A^3    31923.862
+V_He_cm^3/g        0.555
+V_G_A^3    24253.729
+V_G cm^3/g:        0.422
+V_PO A^3:    20518.655
+V_PO cm^3/g:        0.357
+FV_PO:      0.48849

@@ -1,0 +1,31 @@
+ NSI.xyz
+V_A^3    19168.186
+M _g/mol    21630.600
+RHO_g/cm^3        1.874
+PLD_A         2.57
+LCD_A         3.63
+ D            1
+ Total               
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Total               
+V_He_A^3     7846.744
+V_He_cm^3/g        0.218
+V_G_A^3     8079.163
+V_G cm^3/g:        0.225
+V_PO A^3:     3576.645
+V_PO cm^3/g:        0.100
+FV_PO:      0.18659
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3     7846.744
+V_He_cm^3/g        0.218
+V_G_A^3     8079.163
+V_G cm^3/g:        0.225
+V_PO A^3:     3643.702
+V_PO cm^3/g:        0.101
+FV_PO:      0.19009

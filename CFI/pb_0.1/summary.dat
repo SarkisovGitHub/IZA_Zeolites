@@ -1,0 +1,31 @@
+ CFI.xyz
+V_A^3    19083.331
+M _g/mol    19227.200
+RHO_g/cm^3        1.673
+PLD_A         6.77
+LCD_A         6.99
+ D            1
+ Total               
+S_AC_A^2      1278.19
+S_AC_m^2/cm^3       669.80
+S_AC_m^2/g       400.34
+ Total               
+V_He_A^3    10141.909
+V_He_cm^3/g        0.318
+V_G_A^3     9224.271
+V_G cm^3/g:        0.289
+V_PO A^3:     5488.441
+V_PO cm^3/g:        0.172
+FV_PO:      0.28760
+ Network-accessible  
+S_AC_A^2      1248.03
+S_AC_m^2/cm^3       653.99
+S_AC_m^2/g       390.89
+ Network-accessible  
+V_He_A^3    10141.909
+V_He_cm^3/g        0.318
+V_G_A^3     9224.271
+V_G cm^3/g:        0.289
+V_PO A^3:     5423.871
+V_PO cm^3/g:        0.170
+FV_PO:      0.28422

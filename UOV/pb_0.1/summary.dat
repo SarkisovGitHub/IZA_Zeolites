@@ -1,0 +1,31 @@
+ UOV.xyz
+V_A^3    65042.891
+M _g/mol    63449.760
+RHO_g/cm^3        1.620
+PLD_A         5.97
+LCD_A         6.50
+ D            1
+ Total               
+S_AC_A^2      5937.10
+S_AC_m^2/cm^3       912.80
+S_AC_m^2/g       563.50
+ Total               
+V_He_A^3    43499.349
+V_He_cm^3/g        0.413
+V_G_A^3    32533.916
+V_G cm^3/g:        0.309
+V_PO A^3:    24706.256
+V_PO cm^3/g:        0.234
+FV_PO:      0.37985
+ Network-accessible  
+S_AC_A^2      6049.43
+S_AC_m^2/cm^3       930.07
+S_AC_m^2/g       574.16
+ Network-accessible  
+V_He_A^3    43499.349
+V_He_cm^3/g        0.413
+V_G_A^3    32533.856
+V_G cm^3/g:        0.309
+V_PO A^3:    24920.933
+V_PO cm^3/g:        0.237
+FV_PO:      0.38315

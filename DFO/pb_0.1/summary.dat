@@ -1,0 +1,31 @@
+ DFO.xyz
+V_A^3    70919.176
+M _g/mol    63449.760
+RHO_g/cm^3        1.486
+PLD_A         6.75
+LCD_A        10.80
+ D            1
+ Total               
+S_AC_A^2      7182.34
+S_AC_m^2/cm^3      1012.75
+S_AC_m^2/g       681.69
+ Total               
+V_He_A^3    53027.546
+V_He_cm^3/g        0.503
+V_G_A^3    38359.426
+V_G cm^3/g:        0.364
+V_PO A^3:    32118.348
+V_PO cm^3/g:        0.305
+FV_PO:      0.45289
+ Network-accessible  
+S_AC_A^2      7189.34
+S_AC_m^2/cm^3      1013.74
+S_AC_m^2/g       682.35
+ Network-accessible  
+V_He_A^3    53027.546
+V_He_cm^3/g        0.503
+V_G_A^3    38359.350
+V_G cm^3/g:        0.364
+V_PO A^3:    32114.448
+V_PO cm^3/g:        0.305
+FV_PO:      0.45283

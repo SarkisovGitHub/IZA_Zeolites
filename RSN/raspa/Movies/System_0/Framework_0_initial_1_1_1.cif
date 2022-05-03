@@ -1,0 +1,56 @@
+data_zeolite
+
+_audit_creation_method RASPA-1.0
+_audit_creation_date 2021-6-7
+_audit_author_name ''
+
+_cell_length_a    7.155
+_cell_length_b    41.826
+_cell_length_c    7.158
+_cell_angle_alpha 90
+_cell_angle_beta  90.003
+_cell_angle_gamma 90
+_cell_volume      34274.2
+
+_symmetry_cell_setting          monoclinic
+_symmetry_space_group_name_Hall '-C 2y'
+_symmetry_space_group_name_H-M  'C 1 2/m 1'
+_symmetry_Int_Tables_number     12
+
+loop_
+_symmetry_equiv_pos_as_xyz
+ 'x,y,z'
+ '-x,y,-z'
+ '-x,-y,-z'
+ 'x,-y,z'
+ 'x+1/2,y+1/2,z'
+ '-x+1/2,y+1/2,-z'
+ '-x+1/2,-y+1/2,-z'
+ 'x+1/2,-y+1/2,z'
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+O        O      0.816400000000     0.102700000000     0.000000000000     0     
+O        O      0.683400000000     0.053200000000     0.184400000000     0     
+O        O      0.000000000000     0.048600000000     0.000000000000     0     
+O        O      0.683300000000     0.053200000000     0.815700000000     0     
+O        O      0.500000000000     0.046300000000     0.500000000000     0     
+O        O      0.500100000000     0.000000000000     0.251000000000     0     
+O        O      0.000000000000     0.147300000000     0.183500000000     0     
+O        O      0.815600000000     0.196800000000     0.316700000000     0     
+O        O      0.000000000000     0.201400000000     0.000000000000     0     
+O        O      0.184300000000     0.196800000000     0.316700000000     0     
+O        O      0.500000000000     0.203800000000     0.500000000000     0     
+O        O      0.250000000000     0.250000000000     0.500000000000     0     
+T        Si     0.794300000000     0.064300000000     0.000000000000     0     
+T        Si     0.500000000000     0.038100000000     0.280400000000     0     
+T        Si     0.000000000000     0.185700000000     0.205700000000     0     
+T        Si     0.280100000000     0.211900000000     0.500000000000     0     
+T        Si     0.000000000000     0.125000000000     0.000000000000     0     
+
+

@@ -1,0 +1,31 @@
+ EMT.xyz
+V_A^3    28829.208
+M _g/mol    23072.640
+RHO_g/cm^3        1.329
+PLD_A         6.86
+LCD_A        10.97
+ D            1
+ Total               
+S_AC_A^2      3504.29
+S_AC_m^2/cm^3      1215.53
+S_AC_m^2/g       914.65
+ Total               
+V_He_A^3    23370.695
+V_He_cm^3/g        0.610
+V_G_A^3    16994.449
+V_G cm^3/g:        0.444
+V_PO A^3:    14984.005
+V_PO cm^3/g:        0.391
+FV_PO:      0.51975
+ Network-accessible  
+S_AC_A^2      3402.74
+S_AC_m^2/cm^3      1180.31
+S_AC_m^2/g       888.14
+ Network-accessible  
+V_He_A^3    23370.695
+V_He_cm^3/g        0.610
+V_G_A^3    16994.449
+V_G cm^3/g:        0.444
+V_PO A^3:    13420.516
+V_PO cm^3/g:        0.350
+FV_PO:      0.46552

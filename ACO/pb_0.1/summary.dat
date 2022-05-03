@@ -1,0 +1,31 @@
+ ACO.xyz
+V_A^3    26237.787
+M _g/mol    25956.720
+RHO_g/cm^3        1.643
+PLD_A         3.04
+LCD_A         4.05
+ D            3
+ Total               
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Total               
+V_He_A^3    21003.049
+V_He_cm^3/g        0.487
+V_G_A^3    12932.568
+V_G cm^3/g:        0.300
+V_PO A^3:     9594.672
+V_PO cm^3/g:        0.223
+FV_PO:      0.36568
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    21003.049
+V_He_cm^3/g        0.487
+V_G_A^3    12932.568
+V_G cm^3/g:        0.300
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

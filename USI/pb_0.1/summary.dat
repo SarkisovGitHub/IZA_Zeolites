@@ -1,0 +1,31 @@
+ USI.xyz
+V_A^3    30174.281
+M _g/mol    28840.800
+RHO_g/cm^3        1.587
+PLD_A         5.74
+LCD_A         6.25
+ D            1
+ Total               
+S_AC_A^2      2595.43
+S_AC_m^2/cm^3       860.15
+S_AC_m^2/g       541.94
+ Total               
+V_He_A^3    21946.394
+V_He_cm^3/g        0.458
+V_G_A^3    15359.274
+V_G cm^3/g:        0.321
+V_PO A^3:    12391.862
+V_PO cm^3/g:        0.259
+FV_PO:      0.41068
+ Network-accessible  
+S_AC_A^2      2541.35
+S_AC_m^2/cm^3       842.23
+S_AC_m^2/g       530.65
+ Network-accessible  
+V_He_A^3    21946.394
+V_He_cm^3/g        0.458
+V_G_A^3    15359.232
+V_G cm^3/g:        0.321
+V_PO A^3:    12496.271
+V_PO cm^3/g:        0.261
+FV_PO:      0.41414

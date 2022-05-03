@@ -1,0 +1,31 @@
+ PCR.xyz
+V_A^3    38398.136
+M _g/mol    43261.200
+RHO_g/cm^3        1.871
+PLD_A         3.67
+LCD_A         5.55
+ D            1
+ Total               
+S_AC_A^2       616.81
+S_AC_m^2/cm^3       160.63
+S_AC_m^2/g        85.86
+ Total               
+V_He_A^3    20427.362
+V_He_cm^3/g        0.284
+V_G_A^3    16177.362
+V_G cm^3/g:        0.225
+V_PO A^3:     9512.289
+V_PO cm^3/g:        0.132
+FV_PO:      0.24773
+ Network-accessible  
+S_AC_A^2       229.40
+S_AC_m^2/cm^3        59.74
+S_AC_m^2/g        31.93
+ Network-accessible  
+V_He_A^3    20427.362
+V_He_cm^3/g        0.284
+V_G_A^3    16177.329
+V_G cm^3/g:        0.225
+V_PO A^3:     5652.359
+V_PO cm^3/g:        0.079
+FV_PO:      0.14720

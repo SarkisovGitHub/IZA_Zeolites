@@ -1,0 +1,72 @@
+data_zeolite
+
+_audit_creation_method RASPA-1.0
+_audit_creation_date 2022-1-6
+_audit_author_name ''
+
+_cell_length_a    12.8841
+_cell_length_b    12.8841
+_cell_length_c    40.3613
+_cell_angle_alpha 90
+_cell_angle_beta  90
+_cell_angle_gamma 120
+_cell_volume      52221.4
+
+_symmetry_cell_setting          hexagonal
+_symmetry_space_group_name_Hall '-P 6c 2c'
+_symmetry_space_group_name_H-M  'P 63/m m c'
+_symmetry_Int_Tables_number     194
+
+loop_
+_symmetry_equiv_pos_as_xyz
+ 'x,y,z'
+ '-y,x-y,z'
+ '-x+y,-x,z'
+ '-x,-y,z+1/2'
+ 'y,-x+y,z+1/2'
+ 'x-y,x,z+1/2'
+ 'y,x,-z'
+ 'x-y,-y,-z'
+ '-x,-x+y,-z'
+ '-y,-x,-z+1/2'
+ '-x+y,y,-z+1/2'
+ 'x,x-y,-z+1/2'
+ '-x,-y,-z'
+ 'y,-x+y,-z'
+ 'x-y,x,-z'
+ 'x,y,-z+1/2'
+ '-y,x-y,-z+1/2'
+ '-x+y,-x,-z+1/2'
+ '-y,-x,z'
+ '-x+y,y,z'
+ 'x,x-y,z'
+ 'y,x,z+1/2'
+ 'x-y,-y,z+1/2'
+ '-x,-x+y,z+1/2'
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+T        Si     0.239190000000     0.000430000000     0.038210000000     0     
+T        Si     0.425450000000     0.095310000000     0.094610000000     0     
+T        Si     0.999110000000     0.239780000000     0.155420000000     0     
+T        Si     0.095170000000     0.428770000000     0.211790000000     0     
+O        O      0.129460000000     0.870540000000     0.048050000000     0     
+O        O      0.352880000000     0.031090000000     0.061310000000     0     
+O        O      0.200360000000     0.100180000000     0.043580000000     0     
+O        O      0.274730000000     0.000000000000     0.000000000000     0     
+O        O      0.474320000000     0.237160000000     0.092300000000     0     
+O        O      0.337760000000     0.041230000000     0.126080000000     0     
+O        O      0.535490000000     0.070980000000     0.099060000000     0     
+O        O      0.898660000000     0.101340000000     0.160600000000     0     
+O        O      0.014650000000     0.312920000000     0.189140000000     0     
+O        O      0.124510000000     0.249020000000     0.145620000000     0     
+O        O      0.234500000000     0.469000000000     0.207390000000     0     
+O        O      0.057140000000     0.395720000000     0.250000000000     0     
+O        O      0.074320000000     0.537160000000     0.200840000000     0     
+
+

@@ -1,0 +1,31 @@
+ ATN.xyz
+V_A^3    17959.861
+M _g/mol    19227.200
+RHO_g/cm^3        1.778
+PLD_A         3.72
+LCD_A         5.43
+ D            1
+ Total               
+S_AC_A^2       337.39
+S_AC_m^2/cm^3       187.86
+S_AC_m^2/g       105.67
+ Total               
+V_He_A^3     9879.504
+V_He_cm^3/g        0.309
+V_G_A^3     8091.638
+V_G cm^3/g:        0.253
+V_PO A^3:     4550.737
+V_PO cm^3/g:        0.143
+FV_PO:      0.25338
+ Network-accessible  
+S_AC_A^2       335.71
+S_AC_m^2/cm^3       186.92
+S_AC_m^2/g       105.15
+ Network-accessible  
+V_He_A^3     9879.504
+V_He_cm^3/g        0.309
+V_G_A^3     8091.638
+V_G cm^3/g:        0.253
+V_PO A^3:     4570.966
+V_PO cm^3/g:        0.143
+FV_PO:      0.25451

@@ -1,0 +1,31 @@
+ IWR.xyz
+V_A^3    42962.721
+M _g/mol    40377.120
+RHO_g/cm^3        1.561
+PLD_A         5.33
+LCD_A         6.92
+ D            1
+ Total               
+S_AC_A^2      4360.92
+S_AC_m^2/cm^3      1015.05
+S_AC_m^2/g       650.42
+ Total               
+V_He_A^3    30733.361
+V_He_cm^3/g        0.458
+V_G_A^3    22231.917
+V_G cm^3/g:        0.332
+V_PO A^3:    18054.540
+V_PO cm^3/g:        0.269
+FV_PO:      0.42024
+ Network-accessible  
+S_AC_A^2      4278.13
+S_AC_m^2/cm^3       995.78
+S_AC_m^2/g       638.07
+ Network-accessible  
+V_He_A^3    30733.361
+V_He_cm^3/g        0.458
+V_G_A^3    22231.641
+V_G cm^3/g:        0.332
+V_PO A^3:    18187.705
+V_PO cm^3/g:        0.271
+FV_PO:      0.42334

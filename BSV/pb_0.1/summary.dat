@@ -1,0 +1,31 @@
+ BSV.xyz
+V_A^3    41077.910
+M _g/mol    46145.280
+RHO_g/cm^3        1.865
+PLD_A         3.31
+LCD_A         4.69
+ D            3
+ Total               
+S_AC_A^2       212.71
+S_AC_m^2/cm^3        51.78
+S_AC_m^2/g        27.76
+ Total               
+V_He_A^3    28334.020
+V_He_cm^3/g        0.370
+V_G_A^3    17556.981
+V_G cm^3/g:        0.229
+V_PO A^3:    11647.301
+V_PO cm^3/g:        0.152
+FV_PO:      0.28354
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    28334.020
+V_He_cm^3/g        0.370
+V_G_A^3    17544.017
+V_G cm^3/g:        0.229
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

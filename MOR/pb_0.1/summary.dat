@@ -1,0 +1,31 @@
+ MOR.xyz
+V_A^3    45236.156
+M _g/mol    46145.280
+RHO_g/cm^3        1.694
+PLD_A         5.87
+LCD_A         6.21
+ D            1
+ Total               
+S_AC_A^2      2370.25
+S_AC_m^2/cm^3       523.97
+S_AC_m^2/g       309.33
+ Total               
+V_He_A^3    29681.654
+V_He_cm^3/g        0.387
+V_G_A^3    21536.396
+V_G cm^3/g:        0.281
+V_PO A^3:    14707.205
+V_PO cm^3/g:        0.192
+FV_PO:      0.32512
+ Network-accessible  
+S_AC_A^2      2310.06
+S_AC_m^2/cm^3       510.67
+S_AC_m^2/g       301.47
+ Network-accessible  
+V_He_A^3    29681.654
+V_He_cm^3/g        0.387
+V_G_A^3    21536.396
+V_G cm^3/g:        0.281
+V_PO A^3:    10083.341
+V_PO cm^3/g:        0.132
+FV_PO:      0.22290

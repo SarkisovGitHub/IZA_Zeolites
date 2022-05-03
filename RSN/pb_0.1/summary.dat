@@ -1,0 +1,31 @@
+ RSN.xyz
+V_A^3    34274.225
+M _g/mol    34608.960
+RHO_g/cm^3        1.677
+PLD_A         3.23
+LCD_A         4.57
+ D            2
+ Total               
+S_AC_A^2        25.46
+S_AC_m^2/cm^3         7.43
+S_AC_m^2/g         4.43
+ Total               
+V_He_A^3    24582.982
+V_He_cm^3/g        0.428
+V_G_A^3    16500.334
+V_G cm^3/g:        0.287
+V_PO A^3:    11520.533
+V_PO cm^3/g:        0.200
+FV_PO:      0.33613
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    24582.982
+V_He_cm^3/g        0.428
+V_G_A^3    16500.334
+V_G cm^3/g:        0.287
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

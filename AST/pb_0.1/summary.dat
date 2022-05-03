@@ -1,0 +1,31 @@
+ AST.xyz
+V_A^3    20230.373
+M _g/mol    19227.200
+RHO_g/cm^3        1.578
+PLD_A         1.59
+LCD_A         7.33
+ D            3
+ Total               
+S_AC_A^2      1326.95
+S_AC_m^2/cm^3       655.92
+S_AC_m^2/g       415.61
+ Total               
+V_He_A^3    15486.535
+V_He_cm^3/g        0.485
+V_G_A^3    10361.993
+V_G cm^3/g:        0.325
+V_PO A^3:     8435.698
+V_PO cm^3/g:        0.264
+FV_PO:      0.41698
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    15486.535
+V_He_cm^3/g        0.485
+V_G_A^3    10361.993
+V_G cm^3/g:        0.325
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

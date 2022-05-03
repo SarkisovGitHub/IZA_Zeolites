@@ -1,0 +1,31 @@
+ CHI.xyz
+V_A^3    25383.939
+M _g/mol    31434.840
+RHO_g/cm^3        2.056
+PLD_A         2.96
+LCD_A         3.42
+ D            1
+ Total               
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Total               
+V_He_A^3     8778.284
+V_He_cm^3/g        0.168
+V_G_A^3     8832.524
+V_G cm^3/g:        0.169
+V_PO A^3:     2606.478
+V_PO cm^3/g:        0.050
+FV_PO:      0.10268
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3     8778.284
+V_He_cm^3/g        0.168
+V_G_A^3     8832.002
+V_G cm^3/g:        0.169
+V_PO A^3:     2631.053
+V_PO cm^3/g:        0.050
+FV_PO:      0.10365

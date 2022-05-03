@@ -1,0 +1,31 @@
+ PWW.xyz
+V_A^3    42248.584
+M _g/mol    43261.200
+RHO_g/cm^3        1.700
+PLD_A         4.27
+LCD_A         4.74
+ D            1
+ Total               
+S_AC_A^2      2012.94
+S_AC_m^2/cm^3       476.45
+S_AC_m^2/g       280.21
+ Total               
+V_He_A^3    29852.039
+V_He_cm^3/g        0.416
+V_G_A^3    20030.978
+V_G cm^3/g:        0.279
+V_PO A^3:    15363.760
+V_PO cm^3/g:        0.214
+FV_PO:      0.36365
+ Network-accessible  
+S_AC_A^2      2016.50
+S_AC_m^2/cm^3       477.30
+S_AC_m^2/g       280.71
+ Network-accessible  
+V_He_A^3    29852.039
+V_He_cm^3/g        0.416
+V_G_A^3    20030.836
+V_G cm^3/g:        0.279
+V_PO A^3:    15159.337
+V_PO cm^3/g:        0.211
+FV_PO:      0.35881

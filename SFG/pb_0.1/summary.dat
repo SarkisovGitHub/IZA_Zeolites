@@ -1,0 +1,31 @@
+ SFG.xyz
+V_A^3    50340.408
+M _g/mol    53355.480
+RHO_g/cm^3        1.760
+PLD_A         4.84
+LCD_A         6.45
+ D            1
+ Total               
+S_AC_A^2      2824.09
+S_AC_m^2/cm^3       561.00
+S_AC_m^2/g       318.75
+ Total               
+V_He_A^3    24952.476
+V_He_cm^3/g        0.282
+V_G_A^3    22964.382
+V_G cm^3/g:        0.259
+V_PO A^3:    13691.365
+V_PO cm^3/g:        0.155
+FV_PO:      0.27198
+ Network-accessible  
+S_AC_A^2      2734.73
+S_AC_m^2/cm^3       543.25
+S_AC_m^2/g       308.66
+ Network-accessible  
+V_He_A^3    24952.476
+V_He_cm^3/g        0.282
+V_G_A^3    22964.382
+V_G cm^3/g:        0.259
+V_PO A^3:    13588.025
+V_PO cm^3/g:        0.153
+FV_PO:      0.26992

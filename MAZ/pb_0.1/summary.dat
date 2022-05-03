@@ -1,0 +1,31 @@
+ MAZ.xyz
+V_A^3    34589.533
+M _g/mol    34608.960
+RHO_g/cm^3        1.661
+PLD_A         6.98
+LCD_A         7.53
+ D            1
+ Total               
+S_AC_A^2      1878.84
+S_AC_m^2/cm^3       543.18
+S_AC_m^2/g       326.93
+ Total               
+V_He_A^3    24530.872
+V_He_cm^3/g        0.427
+V_G_A^3    16827.890
+V_G cm^3/g:        0.293
+V_PO A^3:    10840.527
+V_PO cm^3/g:        0.189
+FV_PO:      0.31340
+ Network-accessible  
+S_AC_A^2      1329.05
+S_AC_m^2/cm^3       384.23
+S_AC_m^2/g       231.26
+ Network-accessible  
+V_He_A^3    24530.872
+V_He_cm^3/g        0.427
+V_G_A^3    16827.883
+V_G cm^3/g:        0.293
+V_PO A^3:     5952.022
+V_PO cm^3/g:        0.104
+FV_PO:      0.17208

@@ -1,0 +1,31 @@
+ AFI.xyz
+V_A^3    38358.424
+M _g/mol    38935.080
+RHO_g/cm^3        1.686
+PLD_A         6.90
+LCD_A         7.73
+ D            1
+ Total               
+S_AC_A^2      2606.07
+S_AC_m^2/cm^3       679.40
+S_AC_m^2/g       403.08
+ Total               
+V_He_A^3    19075.867
+V_He_cm^3/g        0.295
+V_G_A^3    18346.443
+V_G cm^3/g:        0.284
+V_PO A^3:    11283.062
+V_PO cm^3/g:        0.175
+FV_PO:      0.29415
+ Network-accessible  
+S_AC_A^2      2635.82
+S_AC_m^2/cm^3       687.16
+S_AC_m^2/g       407.69
+ Network-accessible  
+V_He_A^3    19075.867
+V_He_cm^3/g        0.295
+V_G_A^3    18346.443
+V_G cm^3/g:        0.284
+V_PO A^3:    11393.141
+V_PO cm^3/g:        0.176
+FV_PO:      0.29702

@@ -1,0 +1,31 @@
+ IFT.xyz
+V_A^3    50103.079
+M _g/mol    36787.680
+RHO_g/cm^3        1.219
+PLD_A         7.25
+LCD_A         9.94
+ D            1
+ Total               
+S_AC_A^2      7512.14
+S_AC_m^2/cm^3      1499.34
+S_AC_m^2/g      1229.74
+ Total               
+V_He_A^3    38589.709
+V_He_cm^3/g        0.632
+V_G_A^3    31120.911
+V_G cm^3/g:        0.509
+V_PO A^3:    27728.732
+V_PO cm^3/g:        0.454
+FV_PO:      0.55343
+ Network-accessible  
+S_AC_A^2      7480.15
+S_AC_m^2/cm^3      1492.95
+S_AC_m^2/g      1224.50
+ Network-accessible  
+V_He_A^3    38589.709
+V_He_cm^3/g        0.632
+V_G_A^3    31120.719
+V_G cm^3/g:        0.509
+V_PO A^3:    27890.388
+V_PO cm^3/g:        0.457
+FV_PO:      0.55666

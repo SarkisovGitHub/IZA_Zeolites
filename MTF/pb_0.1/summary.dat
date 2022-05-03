@@ -1,0 +1,31 @@
+ MTF.xyz
+V_A^3    25457.456
+M _g/mol    31724.880
+RHO_g/cm^3        2.069
+PLD_A         3.51
+LCD_A         5.72
+ D            1
+ Total               
+S_AC_A^2       688.11
+S_AC_m^2/cm^3       270.30
+S_AC_m^2/g       130.62
+ Total               
+V_He_A^3    10875.684
+V_He_cm^3/g        0.206
+V_G_A^3     9229.110
+V_G cm^3/g:        0.175
+V_PO A^3:     5167.379
+V_PO cm^3/g:        0.098
+FV_PO:      0.20298
+ Network-accessible  
+S_AC_A^2       651.06
+S_AC_m^2/cm^3       255.74
+S_AC_m^2/g       123.59
+ Network-accessible  
+V_He_A^3    10875.684
+V_He_cm^3/g        0.206
+V_G_A^3     9228.901
+V_G cm^3/g:        0.175
+V_PO A^3:     5134.961
+V_PO cm^3/g:        0.097
+FV_PO:      0.20171

@@ -1,0 +1,31 @@
+ BIK.xyz
+V_A^3    25715.270
+M _g/mol    28840.800
+RHO_g/cm^3        1.862
+PLD_A         3.05
+LCD_A         3.67
+ D            1
+ Total               
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Total               
+V_He_A^3    11200.714
+V_He_cm^3/g        0.234
+V_G_A^3    10914.123
+V_G cm^3/g:        0.228
+V_PO A^3:     5352.286
+V_PO cm^3/g:        0.112
+FV_PO:      0.20814
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    11200.714
+V_He_cm^3/g        0.234
+V_G_A^3    10914.123
+V_G cm^3/g:        0.228
+V_PO A^3:     5428.685
+V_PO cm^3/g:        0.113
+FV_PO:      0.21111

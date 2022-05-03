@@ -1,0 +1,31 @@
+ DFT.xyz
+V_A^3    21679.291
+M _g/mol    23072.640
+RHO_g/cm^3        1.767
+PLD_A         3.21
+LCD_A         4.54
+ D            1
+ Total               
+S_AC_A^2        67.32
+S_AC_m^2/cm^3        31.05
+S_AC_m^2/g        17.57
+ Total               
+V_He_A^3    14516.631
+V_He_cm^3/g        0.379
+V_G_A^3     9827.021
+V_G cm^3/g:        0.256
+V_PO A^3:     6303.052
+V_PO cm^3/g:        0.165
+FV_PO:      0.29074
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    14516.631
+V_He_cm^3/g        0.379
+V_G_A^3     9827.009
+V_G cm^3/g:        0.256
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

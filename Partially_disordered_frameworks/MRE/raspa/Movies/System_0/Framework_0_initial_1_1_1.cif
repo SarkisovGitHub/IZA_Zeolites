@@ -1,0 +1,61 @@
+data_zeolite
+
+_audit_creation_method RASPA-1.0
+_audit_creation_date 2022-1-5
+_audit_author_name ''
+
+_cell_length_a    8.257
+_cell_length_b    14.562
+_cell_length_c    20.314
+_cell_angle_alpha 90
+_cell_angle_beta  90
+_cell_angle_gamma 90
+_cell_volume      39080.4
+
+_symmetry_cell_setting          orthorhombic
+_symmetry_space_group_name_Hall '-I 2b 2'
+_symmetry_space_group_name_H-M  'I m m a'
+_symmetry_Int_Tables_number     74
+
+loop_
+_symmetry_equiv_pos_as_xyz
+ 'x,y,z'
+ '-x,-y+1/2,z'
+ '-x,y+1/2,-z'
+ 'x,-y,-z'
+ '-x,-y,-z'
+ 'x,y+1/2,-z'
+ 'x,-y+1/2,z'
+ '-x,y,z'
+ 'x+1/2,y+1/2,z+1/2'
+ '-x+1/2,-y,z+1/2'
+ '-x+1/2,y,-z+1/2'
+ 'x+1/2,-y+1/2,-z+1/2'
+ '-x+1/2,-y+1/2,-z+1/2'
+ 'x+1/2,y,-z+1/2'
+ 'x+1/2,-y,z+1/2'
+ '-x+1/2,y+1/2,z+1/2'
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+O        O      0.500000000000     0.750000000000     0.011900000000     0     
+O        O      0.000000000000     0.750000000000     0.150200000000     0     
+O        O      0.500000000000     0.967400000000     0.169800000000     0     
+O        O      0.000000000000     0.913300000000     0.953900000000     0     
+O        O      0.194200000000     0.750000000000     0.047600000000     0     
+O        O      0.276500000000     0.840000000000     0.154600000000     0     
+O        O      0.250000000000     0.961500000000     0.250000000000     0     
+O        O      0.210200000000     0.012600000000     0.127900000000     0     
+O        O      0.254300000000     0.000000000000     0.000000000000     0     
+O        O      0.287500000000     0.840200000000     0.941400000000     0     
+T        Si     0.309800000000     0.944800000000     0.175600000000     0     
+T        Si     0.188400000000     0.935500000000     0.941400000000     0     
+T        Si     0.315900000000     0.750000000000     0.985700000000     0     
+T        Si     0.186300000000     0.750000000000     0.126800000000     0     
+
+

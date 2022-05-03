@@ -1,0 +1,31 @@
+ ABW.xyz
+V_A^3    20471.578
+M _g/mol    21630.600
+RHO_g/cm^3        1.755
+PLD_A         3.09
+LCD_A         3.73
+ D            1
+ Total               
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Total               
+V_He_A^3    12249.962
+V_He_cm^3/g        0.341
+V_G_A^3     9386.955
+V_G cm^3/g:        0.261
+V_PO A^3:     5546.752
+V_PO cm^3/g:        0.154
+FV_PO:      0.27095
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    12249.962
+V_He_cm^3/g        0.341
+V_G_A^3     9386.955
+V_G cm^3/g:        0.261
+V_PO A^3:     5614.338
+V_PO cm^3/g:        0.156
+FV_PO:      0.27425

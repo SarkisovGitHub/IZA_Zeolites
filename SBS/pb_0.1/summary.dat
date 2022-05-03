@@ -1,0 +1,31 @@
+ SBS.xyz
+V_A^3    27988.604
+M _g/mol    23072.640
+RHO_g/cm^3        1.369
+PLD_A         6.77
+LCD_A        10.94
+ D            2
+ Total               
+S_AC_A^2      3436.72
+S_AC_m^2/cm^3      1227.90
+S_AC_m^2/g       897.01
+ Total               
+V_He_A^3    21308.662
+V_He_cm^3/g        0.556
+V_G_A^3    16171.685
+V_G cm^3/g:        0.422
+V_PO A^3:    13671.543
+V_PO cm^3/g:        0.357
+FV_PO:      0.48847
+ Network-accessible  
+S_AC_A^2      3348.94
+S_AC_m^2/cm^3      1196.54
+S_AC_m^2/g       874.10
+ Network-accessible  
+V_He_A^3    21308.662
+V_He_cm^3/g        0.556
+V_G_A^3    16171.683
+V_G cm^3/g:        0.422
+V_PO A^3:    13589.066
+V_PO cm^3/g:        0.355
+FV_PO:      0.48552

@@ -1,0 +1,31 @@
+ AEL.xyz
+V_A^3    33356.890
+M _g/mol    38454.400
+RHO_g/cm^3        1.914
+PLD_A         4.14
+LCD_A         5.11
+ D            1
+ Total               
+S_AC_A^2       675.66
+S_AC_m^2/cm^3       202.56
+S_AC_m^2/g       105.81
+ Total               
+V_He_A^3    13925.719
+V_He_cm^3/g        0.218
+V_G_A^3    13629.282
+V_G cm^3/g:        0.213
+V_PO A^3:     6897.780
+V_PO cm^3/g:        0.108
+FV_PO:      0.20679
+ Network-accessible  
+S_AC_A^2       682.48
+S_AC_m^2/cm^3       204.60
+S_AC_m^2/g       106.88
+ Network-accessible  
+V_He_A^3    13925.719
+V_He_cm^3/g        0.218
+V_G_A^3    13629.282
+V_G cm^3/g:        0.213
+V_PO A^3:     6915.498
+V_PO cm^3/g:        0.108
+FV_PO:      0.20732

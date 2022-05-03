@@ -1,0 +1,31 @@
+ TSC.xyz
+V_A^3    29053.359
+M _g/mol    23072.640
+RHO_g/cm^3        1.319
+PLD_A         3.74
+LCD_A        15.97
+ D            3
+ Total               
+S_AC_A^2      2734.36
+S_AC_m^2/cm^3       941.15
+S_AC_m^2/g       713.69
+ Total               
+V_He_A^3    23212.019
+V_He_cm^3/g        0.606
+V_G_A^3    17209.265
+V_G cm^3/g:        0.449
+V_PO A^3:    14884.293
+V_PO cm^3/g:        0.388
+FV_PO:      0.51231
+ Network-accessible  
+S_AC_A^2      2697.68
+S_AC_m^2/cm^3       928.53
+S_AC_m^2/g       704.12
+ Network-accessible  
+V_He_A^3    23212.019
+V_He_cm^3/g        0.606
+V_G_A^3    17209.265
+V_G cm^3/g:        0.449
+V_PO A^3:    13245.971
+V_PO cm^3/g:        0.346
+FV_PO:      0.45592

@@ -1,0 +1,31 @@
+ PTT.xyz
+V_A^3    39256.859
+M _g/mol    38935.080
+RHO_g/cm^3        1.647
+PLD_A         2.76
+LCD_A         6.38
+ D            2
+ Total               
+S_AC_A^2      1770.48
+S_AC_m^2/cm^3       451.00
+S_AC_m^2/g       273.84
+ Total               
+V_He_A^3    29750.810
+V_He_cm^3/g        0.460
+V_G_A^3    19295.524
+V_G cm^3/g:        0.298
+V_PO A^3:    15166.282
+V_PO cm^3/g:        0.235
+FV_PO:      0.38633
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    29750.810
+V_He_cm^3/g        0.460
+V_G_A^3    19295.524
+V_G cm^3/g:        0.298
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

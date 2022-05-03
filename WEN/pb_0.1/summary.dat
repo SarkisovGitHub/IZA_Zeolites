@@ -1,0 +1,31 @@
+ WEN.xyz
+V_A^3    43494.035
+M _g/mol    42685.200
+RHO_g/cm^3        1.630
+PLD_A         3.88
+LCD_A         5.04
+ D            2
+ Total               
+S_AC_A^2      1100.50
+S_AC_m^2/cm^3       253.02
+S_AC_m^2/g       155.26
+ Total               
+V_He_A^3    29740.864
+V_He_cm^3/g        0.420
+V_G_A^3    21312.548
+V_G cm^3/g:        0.301
+V_PO A^3:    14778.121
+V_PO cm^3/g:        0.208
+FV_PO:      0.33977
+ Network-accessible  
+S_AC_A^2      1076.18
+S_AC_m^2/cm^3       247.43
+S_AC_m^2/g       151.83
+ Network-accessible  
+V_He_A^3    29740.864
+V_He_cm^3/g        0.420
+V_G_A^3    21312.546
+V_G cm^3/g:        0.301
+V_PO A^3:    14720.576
+V_PO cm^3/g:        0.208
+FV_PO:      0.33845

@@ -1,0 +1,31 @@
+ PTY.xyz
+V_A^3    21182.490
+M _g/mol    21630.600
+RHO_g/cm^3        1.696
+PLD_A         4.08
+LCD_A         4.61
+ D            1
+ Total               
+S_AC_A^2       734.89
+S_AC_m^2/cm^3       346.93
+S_AC_m^2/g       204.60
+ Total               
+V_He_A^3    15397.188
+V_He_cm^3/g        0.429
+V_G_A^3    10081.051
+V_G cm^3/g:        0.281
+V_PO A^3:     7827.936
+V_PO cm^3/g:        0.218
+FV_PO:      0.36955
+ Network-accessible  
+S_AC_A^2       737.49
+S_AC_m^2/cm^3       348.16
+S_AC_m^2/g       205.32
+ Network-accessible  
+V_He_A^3    15397.188
+V_He_cm^3/g        0.429
+V_G_A^3    10080.402
+V_G cm^3/g:        0.281
+V_PO A^3:     7923.196
+V_PO cm^3/g:        0.221
+FV_PO:      0.37404

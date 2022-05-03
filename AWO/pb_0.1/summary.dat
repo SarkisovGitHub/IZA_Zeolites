@@ -1,0 +1,31 @@
+ AWO.xyz
+V_A^3    31593.769
+M _g/mol    34608.960
+RHO_g/cm^3        1.819
+PLD_A         3.26
+LCD_A         4.61
+ D            1
+ Total               
+S_AC_A^2       134.17
+S_AC_m^2/cm^3        42.47
+S_AC_m^2/g        23.35
+ Total               
+V_He_A^3    15863.664
+V_He_cm^3/g        0.276
+V_G_A^3    13813.471
+V_G cm^3/g:        0.240
+V_PO A^3:     7185.767
+V_PO cm^3/g:        0.125
+FV_PO:      0.22744
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    15863.664
+V_He_cm^3/g        0.276
+V_G_A^3    13811.607
+V_G cm^3/g:        0.240
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

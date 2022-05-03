@@ -1,0 +1,31 @@
+ SFF.xyz
+V_A^3    43035.593
+M _g/mol    46145.280
+RHO_g/cm^3        1.781
+PLD_A         4.87
+LCD_A         7.11
+ D            1
+ Total               
+S_AC_A^2      2950.86
+S_AC_m^2/cm^3       685.68
+S_AC_m^2/g       385.10
+ Total               
+V_He_A^3    27500.852
+V_He_cm^3/g        0.359
+V_G_A^3    19383.082
+V_G cm^3/g:        0.253
+V_PO A^3:    14552.818
+V_PO cm^3/g:        0.190
+FV_PO:      0.33816
+ Network-accessible  
+S_AC_A^2      3006.33
+S_AC_m^2/cm^3       698.57
+S_AC_m^2/g       392.34
+ Network-accessible  
+V_He_A^3    27500.852
+V_He_cm^3/g        0.359
+V_G_A^3    19381.790
+V_G cm^3/g:        0.253
+V_PO A^3:    14677.830
+V_PO cm^3/g:        0.192
+FV_PO:      0.34106

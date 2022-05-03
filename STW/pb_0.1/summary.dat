@@ -1,0 +1,31 @@
+ STW.xyz
+V_A^3    32946.301
+M _g/mol    32445.900
+RHO_g/cm^3        1.635
+PLD_A         4.37
+LCD_A         4.94
+ D            1
+ Total               
+S_AC_A^2      1655.24
+S_AC_m^2/cm^3       502.40
+S_AC_m^2/g       307.22
+ Total               
+V_He_A^3    26249.511
+V_He_cm^3/g        0.487
+V_G_A^3    16350.546
+V_G cm^3/g:        0.303
+V_PO A^3:    13706.663
+V_PO cm^3/g:        0.254
+FV_PO:      0.41603
+ Network-accessible  
+S_AC_A^2      1647.56
+S_AC_m^2/cm^3       500.07
+S_AC_m^2/g       305.80
+ Network-accessible  
+V_He_A^3    26249.511
+V_He_cm^3/g        0.487
+V_G_A^3    16350.388
+V_G cm^3/g:        0.303
+V_PO A^3:    13577.363
+V_PO cm^3/g:        0.252
+FV_PO:      0.41211

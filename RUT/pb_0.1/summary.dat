@@ -1,0 +1,31 @@
+ RUT.xyz
+V_A^3    35741.322
+M _g/mol    38935.080
+RHO_g/cm^3        1.809
+PLD_A         1.92
+LCD_A         5.43
+ D            2
+ Total               
+S_AC_A^2       939.17
+S_AC_m^2/cm^3       262.77
+S_AC_m^2/g       145.26
+ Total               
+V_He_A^3    22862.072
+V_He_cm^3/g        0.354
+V_G_A^3    15759.284
+V_G cm^3/g:        0.244
+V_PO A^3:    10530.353
+V_PO cm^3/g:        0.163
+FV_PO:      0.29463
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    22862.072
+V_He_cm^3/g        0.354
+V_G_A^3    15759.185
+V_G cm^3/g:        0.244
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

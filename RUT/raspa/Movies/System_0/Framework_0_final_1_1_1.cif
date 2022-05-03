@@ -1,0 +1,55 @@
+data_zeolite
+
+_audit_creation_method RASPA-1.0
+_audit_creation_date 2021-6-7
+_audit_author_name ''
+
+_cell_length_a    13.224
+_cell_length_b    13.286
+_cell_length_c    12.454
+_cell_angle_alpha 90
+_cell_angle_beta  114.842
+_cell_angle_gamma 90
+_cell_volume      35741.3
+
+_symmetry_cell_setting          monoclinic
+_symmetry_space_group_name_Hall '-C 2y'
+_symmetry_space_group_name_H-M  'C 1 2/m 1'
+_symmetry_Int_Tables_number     12
+
+loop_
+_symmetry_equiv_pos_as_xyz
+ 'x,y,z'
+ '-x,y,-z'
+ '-x,-y,-z'
+ 'x,-y,z'
+ 'x+1/2,y+1/2,z'
+ '-x+1/2,y+1/2,-z'
+ '-x+1/2,-y+1/2,-z'
+ 'x+1/2,-y+1/2,z'
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+O        O      0.161900000000     0.144000000000     0.004000000000     0     
+O        O      0.303100000000     0.000000000000     0.117100000000     0     
+O        O      0.376500000000     0.182200000000     0.108100000000     0     
+O        O      0.265400000000     0.147500000000     0.236400000000     0     
+O        O      0.338600000000     0.000000000000     0.390600000000     0     
+O        O      0.390800000000     0.187000000000     0.460600000000     0     
+O        O      0.185100000000     0.123200000000     0.395300000000     0     
+O        O      0.018200000000     0.168500000000     0.193500000000     0     
+O        O      0.014400000000     0.000000000000     0.302200000000     0     
+O        O      0.990500000000     0.173300000000     0.390600000000     0     
+O        O      0.000000000000     0.260900000000     0.000000000000     0     
+T        Si     0.276600000000     0.118300000000     0.116400000000     0     
+T        Si     0.295100000000     0.114700000000     0.370800000000     0     
+T        Si     0.052000000000     0.116300000000     0.320600000000     0     
+T        Si     0.932800000000     0.222800000000     0.074300000000     0     
+T        Si     0.000000000000     0.243200000000     0.500000000000     0     
+
+

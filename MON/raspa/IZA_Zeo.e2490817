@@ -1,0 +1,12 @@
+_cell_length_a: 7.135000
+_cell_length_b: 7.135000
+_cell_length_c: 17.809000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: I 41/a m d found space group: 426
+_symmetry_Int_Tables_number: 426
+_space_group.IT_coordinate_system_code: 2
+space group found from symmetry elements: 427 (nr elements: 32)
+End reading cif-file
+'force_field.def' file not found and therefore not used

@@ -1,0 +1,31 @@
+ CDO.xyz
+V_A^3    31904.177
+M _g/mol    34608.960
+RHO_g/cm^3        1.801
+PLD_A         2.91
+LCD_A         5.21
+ D            2
+ Total               
+S_AC_A^2       600.74
+S_AC_m^2/cm^3       188.30
+S_AC_m^2/g       104.53
+ Total               
+V_He_A^3    18776.575
+V_He_cm^3/g        0.327
+V_G_A^3    14146.248
+V_G cm^3/g:        0.246
+V_PO A^3:     8435.408
+V_PO cm^3/g:        0.147
+FV_PO:      0.26440
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    18776.575
+V_He_cm^3/g        0.327
+V_G_A^3    14146.248
+V_G cm^3/g:        0.246
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

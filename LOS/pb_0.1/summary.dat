@@ -1,0 +1,31 @@
+ LOS.xyz
+V_A^3    38427.173
+M _g/mol    38935.080
+RHO_g/cm^3        1.682
+PLD_A         2.05
+LCD_A         5.80
+ D            1
+ Total               
+S_AC_A^2      1575.64
+S_AC_m^2/cm^3       410.03
+S_AC_m^2/g       243.71
+ Total               
+V_He_A^3    26436.470
+V_He_cm^3/g        0.409
+V_G_A^3    18444.782
+V_G cm^3/g:        0.285
+V_PO A^3:    13352.177
+V_PO cm^3/g:        0.207
+FV_PO:      0.34747
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    26436.470
+V_He_cm^3/g        0.409
+V_G_A^3    18444.782
+V_G cm^3/g:        0.285
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

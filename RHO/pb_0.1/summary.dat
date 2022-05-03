@@ -1,0 +1,31 @@
+ RHO.xyz
+V_A^3    26564.958
+M _g/mol    23072.640
+RHO_g/cm^3        1.442
+PLD_A         3.63
+LCD_A         9.95
+ D            3
+ Total               
+S_AC_A^2      2197.99
+S_AC_m^2/cm^3       827.40
+S_AC_m^2/g       573.69
+ Total               
+V_He_A^3    22532.680
+V_He_cm^3/g        0.588
+V_G_A^3    14717.896
+V_G cm^3/g:        0.384
+V_PO A^3:    13034.169
+V_PO cm^3/g:        0.340
+FV_PO:      0.49065
+ Network-accessible  
+S_AC_A^2      2171.26
+S_AC_m^2/cm^3       817.34
+S_AC_m^2/g       566.72
+ Network-accessible  
+V_He_A^3    22532.680
+V_He_cm^3/g        0.588
+V_G_A^3    14717.896
+V_G cm^3/g:        0.384
+V_PO A^3:    12854.610
+V_PO cm^3/g:        0.336
+FV_PO:      0.48389

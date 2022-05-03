@@ -1,0 +1,31 @@
+ DOH.xyz
+V_A^3    54140.125
+M _g/mol    55158.030
+RHO_g/cm^3        1.692
+PLD_A         2.24
+LCD_A         7.31
+ D            1
+ Total               
+S_AC_A^2      1974.22
+S_AC_m^2/cm^3       364.65
+S_AC_m^2/g       215.54
+ Total               
+V_He_A^3    39568.913
+V_He_cm^3/g        0.432
+V_G_A^3    25846.129
+V_G cm^3/g:        0.282
+V_PO A^3:    20545.088
+V_PO cm^3/g:        0.224
+FV_PO:      0.37948
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    39568.913
+V_He_cm^3/g        0.432
+V_G_A^3    25846.129
+V_G cm^3/g:        0.282
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

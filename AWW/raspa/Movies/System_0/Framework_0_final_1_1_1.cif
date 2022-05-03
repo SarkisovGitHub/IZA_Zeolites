@@ -1,0 +1,54 @@
+data_zeolite
+
+_audit_creation_method RASPA-1.0
+_audit_creation_date 2021-6-7
+_audit_author_name ''
+
+_cell_length_a    13.634
+_cell_length_b    13.634
+_cell_length_c    7.627
+_cell_angle_alpha 90
+_cell_angle_beta  90
+_cell_angle_gamma 90
+_cell_volume      22684
+
+_symmetry_cell_setting          tetragonal
+_symmetry_space_group_name_Hall '-P 4a 2a'
+_symmetry_space_group_name_H-M  'P 4/n m m'
+_symmetry_Int_Tables_number     129
+
+loop_
+_symmetry_equiv_pos_as_xyz
+ 'x,y,z'
+ '-x+1/2,-y+1/2,z'
+ '-y+1/2,x,z'
+ 'y,-x+1/2,z'
+ '-x,y+1/2,-z'
+ 'x+1/2,-y,-z'
+ 'y+1/2,x+1/2,-z'
+ '-y,-x,-z'
+ '-x,-y,-z'
+ 'x+1/2,y+1/2,-z'
+ 'y+1/2,-x,-z'
+ '-y,x+1/2,-z'
+ 'x,-y+1/2,z'
+ '-x+1/2,y,z'
+ '-y+1/2,-x+1/2,z'
+ 'y,x,z'
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+O        O      0.500400000000     0.750000000000     0.869900000000     0     
+O        O      0.433000000000     0.888900000000     0.663000000000     0     
+O        O      0.392200000000     0.892200000000     0.000000000000     0     
+O        O      0.571600000000     0.928400000000     0.892100000000     0     
+O        O      0.121000000000     0.750000000000     0.444200000000     0     
+T        Si     0.474200000000     0.864800000000     0.856000000000     0     
+T        Si     0.137300000000     0.862700000000     0.500000000000     0     
+
+

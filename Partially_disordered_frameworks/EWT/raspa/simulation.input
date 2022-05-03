@@ -1,0 +1,32 @@
+SimulationType                MonteCarlo
+NumberOfCycles                10000
+NumberOfInitializationCycles  10000
+PrintEvery                    500
+PrintPropertiesEvery          500
+
+Forcefield                    local
+RemoveAtomNumberCodeFromLabel yes
+CutOffVDW                     12.8
+
+Framework 0
+FrameworkName zeolite 
+UnitCells 2 2 2
+ExternalTemperature 87.0
+ExternalPressure  101325
+Movies yes
+WriteMoviesEvery    500
+
+# Compute System Properties
+ComputeRDF yes
+WriteRDFEvery 100
+RDFHistogramSize 128
+RDFRange 12.8
+
+Component 0 MoleculeName             argon
+            MoleculeDefinition       argon
+            FugacityCoefficient      1.0
+            TranslationProbability   0.5
+            ReinsertionProbability   0.5
+            SwapProbability          1.0
+            CreateNumberOfMolecules  0
+

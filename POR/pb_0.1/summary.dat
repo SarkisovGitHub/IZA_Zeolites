@@ -1,0 +1,31 @@
+ POR.xyz
+V_A^3    29145.688
+M _g/mol    30763.520
+RHO_g/cm^3        1.753
+PLD_A         3.26
+LCD_A         5.56
+ D            1
+ Total               
+S_AC_A^2       844.28
+S_AC_m^2/cm^3       289.68
+S_AC_m^2/g       165.27
+ Total               
+V_He_A^3    21664.141
+V_He_cm^3/g        0.424
+V_G_A^3    13379.616
+V_G cm^3/g:        0.262
+V_PO A^3:    10371.878
+V_PO cm^3/g:        0.203
+FV_PO:      0.35586
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    21664.141
+V_He_cm^3/g        0.424
+V_G_A^3    13379.573
+V_G cm^3/g:        0.262
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

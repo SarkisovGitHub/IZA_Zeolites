@@ -1,0 +1,31 @@
+ SSY.xyz
+V_A^3    33187.096
+M _g/mol    33647.600
+RHO_g/cm^3        1.684
+PLD_A         5.47
+LCD_A         6.92
+ D            1
+ Total               
+S_AC_A^2      2298.00
+S_AC_m^2/cm^3       692.44
+S_AC_m^2/g       411.29
+ Total               
+V_He_A^3    17249.490
+V_He_cm^3/g        0.309
+V_G_A^3    15932.247
+V_G cm^3/g:        0.285
+V_PO A^3:    10153.621
+V_PO cm^3/g:        0.182
+FV_PO:      0.30595
+ Network-accessible  
+S_AC_A^2      2243.76
+S_AC_m^2/cm^3       676.09
+S_AC_m^2/g       401.58
+ Network-accessible  
+V_He_A^3    17249.490
+V_He_cm^3/g        0.309
+V_G_A^3    15932.247
+V_G cm^3/g:        0.285
+V_PO A^3:    10062.807
+V_PO cm^3/g:        0.180
+FV_PO:      0.30321

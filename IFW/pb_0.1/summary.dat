@@ -1,0 +1,31 @@
+ IFW.xyz
+V_A^3    48625.441
+M _g/mol    46145.280
+RHO_g/cm^3        1.576
+PLD_A         5.17
+LCD_A         7.20
+ D            1
+ Total               
+S_AC_A^2      4314.19
+S_AC_m^2/cm^3       887.23
+S_AC_m^2/g       563.02
+ Total               
+V_He_A^3    31674.797
+V_He_cm^3/g        0.413
+V_G_A^3    24927.181
+V_G cm^3/g:        0.325
+V_PO A^3:    18810.051
+V_PO cm^3/g:        0.245
+FV_PO:      0.38684
+ Network-accessible  
+S_AC_A^2      4345.05
+S_AC_m^2/cm^3       893.58
+S_AC_m^2/g       567.05
+ Network-accessible  
+V_He_A^3    31674.797
+V_He_cm^3/g        0.413
+V_G_A^3    24927.139
+V_G cm^3/g:        0.325
+V_PO A^3:    18922.192
+V_PO cm^3/g:        0.247
+FV_PO:      0.38914

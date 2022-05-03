@@ -1,0 +1,31 @@
+ ITR.xyz
+V_A^3    77456.387
+M _g/mol    80754.240
+RHO_g/cm^3        1.731
+PLD_A         4.58
+LCD_A         5.87
+ D            2
+ Total               
+S_AC_A^2      4107.21
+S_AC_m^2/cm^3       530.26
+S_AC_m^2/g       306.29
+ Total               
+V_He_A^3    46421.239
+V_He_cm^3/g        0.346
+V_G_A^3    35993.906
+V_G cm^3/g:        0.268
+V_PO A^3:    24159.110
+V_PO cm^3/g:        0.180
+FV_PO:      0.31191
+ Network-accessible  
+S_AC_A^2      4037.89
+S_AC_m^2/cm^3       521.31
+S_AC_m^2/g       301.12
+ Network-accessible  
+V_He_A^3    46421.239
+V_He_cm^3/g        0.346
+V_G_A^3    35993.906
+V_G cm^3/g:        0.268
+V_PO A^3:    24335.480
+V_PO cm^3/g:        0.181
+FV_PO:      0.31418

@@ -1,0 +1,31 @@
+ IMF.xyz
+V_A^3    65889.036
+M _g/mol    69217.920
+RHO_g/cm^3        1.744
+PLD_A         4.96
+LCD_A         6.80
+ D            1
+ Total               
+S_AC_A^2      3942.09
+S_AC_m^2/cm^3       598.29
+S_AC_m^2/g       342.97
+ Total               
+V_He_A^3    39841.093
+V_He_cm^3/g        0.347
+V_G_A^3    30376.686
+V_G cm^3/g:        0.264
+V_PO A^3:    21133.060
+V_PO cm^3/g:        0.184
+FV_PO:      0.32074
+ Network-accessible  
+S_AC_A^2      4014.69
+S_AC_m^2/cm^3       609.31
+S_AC_m^2/g       349.29
+ Network-accessible  
+V_He_A^3    39841.093
+V_He_cm^3/g        0.347
+V_G_A^3    30376.678
+V_G cm^3/g:        0.264
+V_PO A^3:    20814.100
+V_PO cm^3/g:        0.181
+FV_PO:      0.31590

@@ -1,0 +1,31 @@
+ EAB.xyz
+V_A^3    40619.833
+M _g/mol    38935.080
+RHO_g/cm^3        1.592
+PLD_A         2.99
+LCD_A         6.64
+ D            2
+ Total               
+S_AC_A^2      2417.64
+S_AC_m^2/cm^3       595.19
+S_AC_m^2/g       373.94
+ Total               
+V_He_A^3    31968.434
+V_He_cm^3/g        0.494
+V_G_A^3    20621.732
+V_G cm^3/g:        0.319
+V_PO A^3:    16771.654
+V_PO cm^3/g:        0.259
+FV_PO:      0.41289
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    31968.434
+V_He_cm^3/g        0.494
+V_G_A^3    20621.732
+V_G cm^3/g:        0.319
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

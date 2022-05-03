@@ -1,0 +1,31 @@
+ VET.xyz
+V_A^3    20217.564
+M _g/mol    24514.680
+RHO_g/cm^3        2.013
+PLD_A         5.42
+LCD_A         5.84
+ D            1
+ Total               
+S_AC_A^2       793.80
+S_AC_m^2/cm^3       392.63
+S_AC_m^2/g       195.00
+ Total               
+V_He_A^3     7636.678
+V_He_cm^3/g        0.188
+V_G_A^3     7641.813
+V_G cm^3/g:        0.188
+V_PO A^3:     4027.236
+V_PO cm^3/g:        0.099
+FV_PO:      0.19919
+ Network-accessible  
+S_AC_A^2       788.14
+S_AC_m^2/cm^3       389.83
+S_AC_m^2/g       193.61
+ Network-accessible  
+V_He_A^3     7636.678
+V_He_cm^3/g        0.188
+V_G_A^3     7641.635
+V_G cm^3/g:        0.188
+V_PO A^3:     4078.341
+V_PO cm^3/g:        0.100
+FV_PO:      0.20172

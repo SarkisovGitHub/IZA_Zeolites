@@ -1,0 +1,83 @@
+data_zeolite
+
+_audit_creation_method RASPA-1.0
+_audit_creation_date 2021-6-6
+_audit_author_name ''
+
+_cell_length_a    11.919
+_cell_length_b    11.919
+_cell_length_c    11.919
+_cell_angle_alpha 90
+_cell_angle_beta  90
+_cell_angle_gamma 90
+_cell_volume      45717.6
+
+_symmetry_cell_setting          cubic
+_symmetry_space_group_name_Hall '-P 4 2 3'
+_symmetry_space_group_name_H-M  'P m -3 m'
+_symmetry_Int_Tables_number     221
+
+loop_
+_symmetry_equiv_pos_as_xyz
+ 'x,y,z'
+ '-x,-y,z'
+ '-x,y,-z'
+ 'x,-y,-z'
+ 'z,x,y'
+ 'z,-x,-y'
+ '-z,-x,y'
+ '-z,x,-y'
+ 'y,z,x'
+ '-y,z,-x'
+ 'y,-z,-x'
+ '-y,-z,x'
+ 'y,x,-z'
+ '-y,-x,-z'
+ 'y,-x,z'
+ '-y,x,z'
+ 'x,z,-y'
+ '-x,z,y'
+ '-x,-z,-y'
+ 'x,-z,y'
+ 'z,y,-x'
+ 'z,-y,x'
+ '-z,y,x'
+ '-z,-y,-x'
+ '-x,-y,-z'
+ 'x,y,-z'
+ 'x,-y,z'
+ '-x,y,z'
+ '-z,-x,-y'
+ '-z,x,y'
+ 'z,x,-y'
+ 'z,-x,y'
+ '-y,-z,-x'
+ 'y,-z,x'
+ '-y,z,x'
+ 'y,z,-x'
+ '-y,-x,z'
+ 'y,x,z'
+ '-y,x,-z'
+ 'y,-x,-z'
+ '-x,-z,y'
+ 'x,-z,-y'
+ 'x,z,y'
+ '-x,z,-y'
+ '-z,-y,x'
+ '-z,y,-x'
+ 'z,-y,-x'
+ 'z,y,x'
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+O        O      0.000000000000     0.212200000000     0.500000000000     0     
+O        O      0.110300000000     0.110300000000     0.338400000000     0     
+O        O      0.000000000000     0.296700000000     0.296700000000     0     
+T        Si     0.000000000000     0.182300000000     0.368400000000     0     
+
+

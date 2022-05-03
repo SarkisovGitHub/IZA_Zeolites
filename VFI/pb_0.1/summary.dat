@@ -1,0 +1,31 @@
+ VFI.xyz
+V_A^3    29839.868
+M _g/mol    25956.720
+RHO_g/cm^3        1.444
+PLD_A        10.92
+LCD_A        11.55
+ D            1
+ Total               
+S_AC_A^2      2717.55
+S_AC_m^2/cm^3       910.71
+S_AC_m^2/g       630.49
+ Total               
+V_He_A^3    17551.580
+V_He_cm^3/g        0.407
+V_G_A^3    16657.045
+V_G cm^3/g:        0.386
+V_PO A^3:    12101.343
+V_PO cm^3/g:        0.281
+FV_PO:      0.40554
+ Network-accessible  
+S_AC_A^2      2696.21
+S_AC_m^2/cm^3       903.56
+S_AC_m^2/g       625.54
+ Network-accessible  
+V_He_A^3    17551.580
+V_He_cm^3/g        0.407
+V_G_A^3    16657.045
+V_G cm^3/g:        0.386
+V_PO A^3:    11944.767
+V_PO cm^3/g:        0.277
+FV_PO:      0.40030

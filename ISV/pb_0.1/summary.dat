@@ -1,0 +1,31 @@
+ ISV.xyz
+V_A^3    17020.822
+M _g/mol    15381.760
+RHO_g/cm^3        1.501
+PLD_A         5.88
+LCD_A         6.46
+ D            1
+ Total               
+S_AC_A^2      1961.96
+S_AC_m^2/cm^3      1152.68
+S_AC_m^2/g       768.13
+ Total               
+V_He_A^3    12209.740
+V_He_cm^3/g        0.478
+V_G_A^3     9167.800
+V_G cm^3/g:        0.359
+V_PO A^3:     7436.002
+V_PO cm^3/g:        0.291
+FV_PO:      0.43688
+ Network-accessible  
+S_AC_A^2      1996.36
+S_AC_m^2/cm^3      1172.89
+S_AC_m^2/g       781.60
+ Network-accessible  
+V_He_A^3    12209.740
+V_He_cm^3/g        0.478
+V_G_A^3     9167.778
+V_G cm^3/g:        0.359
+V_PO A^3:     7390.146
+V_PO cm^3/g:        0.289
+FV_PO:      0.43418

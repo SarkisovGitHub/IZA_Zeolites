@@ -1,0 +1,31 @@
+ IRR.xyz
+V_A^3    35382.926
+M _g/mol    24995.360
+RHO_g/cm^3        1.173
+PLD_A        11.58
+LCD_A        13.88
+ D            1
+ Total               
+S_AC_A^2      4836.99
+S_AC_m^2/cm^3      1367.04
+S_AC_m^2/g      1165.38
+ Total               
+V_He_A^3    28022.429
+V_He_cm^3/g        0.675
+V_G_A^3    22555.083
+V_G cm^3/g:        0.543
+V_PO A^3:    20405.584
+V_PO cm^3/g:        0.492
+FV_PO:      0.57671
+ Network-accessible  
+S_AC_A^2      4949.06
+S_AC_m^2/cm^3      1398.72
+S_AC_m^2/g      1192.38
+ Network-accessible  
+V_He_A^3    28022.429
+V_He_cm^3/g        0.675
+V_G_A^3    22554.595
+V_G cm^3/g:        0.543
+V_PO A^3:    20457.017
+V_PO cm^3/g:        0.493
+FV_PO:      0.57816

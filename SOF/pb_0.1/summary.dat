@@ -1,0 +1,31 @@
+ SOF.xyz
+V_A^3    43843.419
+M _g/mol    43261.200
+RHO_g/cm^3        1.638
+PLD_A         3.86
+LCD_A         4.66
+ D            1
+ Total               
+S_AC_A^2       977.49
+S_AC_m^2/cm^3       222.95
+S_AC_m^2/g       136.07
+ Total               
+V_He_A^3    34146.501
+V_He_cm^3/g        0.475
+V_G_A^3    21632.527
+V_G cm^3/g:        0.301
+V_PO A^3:    17024.799
+V_PO cm^3/g:        0.237
+FV_PO:      0.38831
+ Network-accessible  
+S_AC_A^2       980.41
+S_AC_m^2/cm^3       223.62
+S_AC_m^2/g       136.48
+ Network-accessible  
+V_He_A^3    34146.501
+V_He_cm^3/g        0.475
+V_G_A^3    21632.203
+V_G cm^3/g:        0.301
+V_PO A^3:    17106.746
+V_PO cm^3/g:        0.238
+FV_PO:      0.39018

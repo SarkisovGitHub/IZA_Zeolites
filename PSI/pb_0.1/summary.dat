@@ -1,0 +1,31 @@
+ PSI.xyz
+V_A^3    56009.797
+M _g/mol    69217.920
+RHO_g/cm^3        2.052
+PLD_A         4.39
+LCD_A         5.29
+ D            1
+ Total               
+S_AC_A^2       989.02
+S_AC_m^2/cm^3       176.58
+S_AC_m^2/g        86.05
+ Total               
+V_He_A^3    15304.311
+V_He_cm^3/g        0.133
+V_G_A^3    20497.256
+V_G cm^3/g:        0.178
+V_PO A^3:     6702.603
+V_PO cm^3/g:        0.058
+FV_PO:      0.11967
+ Network-accessible  
+S_AC_A^2       978.35
+S_AC_m^2/cm^3       174.67
+S_AC_m^2/g        85.12
+ Network-accessible  
+V_He_A^3    15304.311
+V_He_cm^3/g        0.133
+V_G_A^3    20496.870
+V_G cm^3/g:        0.178
+V_PO A^3:     6694.278
+V_PO cm^3/g:        0.058
+FV_PO:      0.11952

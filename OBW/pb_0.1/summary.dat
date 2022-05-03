@@ -1,0 +1,31 @@
+ OBW.xyz
+V_A^3    23885.519
+M _g/mol    18265.840
+RHO_g/cm^3        1.270
+PLD_A         4.58
+LCD_A         8.76
+ D            1
+ Total               
+S_AC_A^2      2338.09
+S_AC_m^2/cm^3       978.87
+S_AC_m^2/g       770.85
+ Total               
+V_He_A^3    21184.525
+V_He_cm^3/g        0.698
+V_G_A^3    14516.151
+V_G cm^3/g:        0.479
+V_PO A^3:    12711.794
+V_PO cm^3/g:        0.419
+FV_PO:      0.53220
+ Network-accessible  
+S_AC_A^2      2139.29
+S_AC_m^2/cm^3       895.64
+S_AC_m^2/g       705.31
+ Network-accessible  
+V_He_A^3    21184.525
+V_He_cm^3/g        0.698
+V_G_A^3    14516.151
+V_G cm^3/g:        0.479
+V_PO A^3:     9445.660
+V_PO cm^3/g:        0.311
+FV_PO:      0.39546

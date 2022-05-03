@@ -1,0 +1,31 @@
+ SFH.xyz
+V_A^3    38806.927
+M _g/mol    38454.400
+RHO_g/cm^3        1.645
+PLD_A         6.48
+LCD_A         7.56
+ D            1
+ Total               
+S_AC_A^2      2984.93
+S_AC_m^2/cm^3       769.17
+S_AC_m^2/g       467.45
+ Total               
+V_He_A^3    21092.141
+V_He_cm^3/g        0.330
+V_G_A^3    19086.633
+V_G cm^3/g:        0.299
+V_PO A^3:    12543.735
+V_PO cm^3/g:        0.196
+FV_PO:      0.32323
+ Network-accessible  
+S_AC_A^2      2963.21
+S_AC_m^2/cm^3       763.58
+S_AC_m^2/g       464.05
+ Network-accessible  
+V_He_A^3    21092.141
+V_He_cm^3/g        0.330
+V_G_A^3    19086.633
+V_G cm^3/g:        0.299
+V_PO A^3:    12421.580
+V_PO cm^3/g:        0.195
+FV_PO:      0.32009

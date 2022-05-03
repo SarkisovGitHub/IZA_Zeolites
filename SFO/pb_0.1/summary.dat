@@ -1,0 +1,31 @@
+ SFO.xyz
+V_A^3    33756.056
+M _g/mol    30763.520
+RHO_g/cm^3        1.513
+PLD_A         6.50
+LCD_A         7.43
+ D            1
+ Total               
+S_AC_A^2      3108.00
+S_AC_m^2/cm^3       920.72
+S_AC_m^2/g       608.41
+ Total               
+V_He_A^3    25157.450
+V_He_cm^3/g        0.492
+V_G_A^3    17951.526
+V_G cm^3/g:        0.351
+V_PO A^3:    14567.663
+V_PO cm^3/g:        0.285
+FV_PO:      0.43156
+ Network-accessible  
+S_AC_A^2      3120.19
+S_AC_m^2/cm^3       924.33
+S_AC_m^2/g       610.80
+ Network-accessible  
+V_He_A^3    25157.450
+V_He_cm^3/g        0.492
+V_G_A^3    17951.519
+V_G cm^3/g:        0.351
+V_PO A^3:    13614.432
+V_PO cm^3/g:        0.267
+FV_PO:      0.40332

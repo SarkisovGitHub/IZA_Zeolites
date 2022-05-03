@@ -1,0 +1,31 @@
+ EWT.xyz
+V_A^3    38540.425
+M _g/mol    34415.600
+RHO_g/cm^3        1.483
+PLD_A         5.70
+LCD_A         7.21
+ D            1
+ Total               
+S_AC_A^2      4554.11
+S_AC_m^2/cm^3      1181.65
+S_AC_m^2/g       796.89
+ Total               
+V_He_A^3    26283.456
+V_He_cm^3/g        0.460
+V_G_A^3    20581.459
+V_G cm^3/g:        0.360
+V_PO A^3:    17179.344
+V_PO cm^3/g:        0.301
+FV_PO:      0.44575
+ Network-accessible  
+S_AC_A^2      4543.01
+S_AC_m^2/cm^3      1178.77
+S_AC_m^2/g       794.95
+ Network-accessible  
+V_He_A^3    26283.456
+V_He_cm^3/g        0.460
+V_G_A^3    20581.101
+V_G cm^3/g:        0.360
+V_PO A^3:    17193.452
+V_PO cm^3/g:        0.301
+FV_PO:      0.44611

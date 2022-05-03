@@ -1,0 +1,31 @@
+ UTL.xyz
+V_A^3    29233.716
+M _g/mol    27398.760
+RHO_g/cm^3        1.556
+PLD_A         7.06
+LCD_A         8.77
+ D            1
+ Total               
+S_AC_A^2      3250.81
+S_AC_m^2/cm^3      1112.01
+S_AC_m^2/g       714.51
+ Total               
+V_He_A^3    19669.966
+V_He_cm^3/g        0.432
+V_G_A^3    15179.805
+V_G cm^3/g:        0.334
+V_PO A^3:    12244.030
+V_PO cm^3/g:        0.269
+FV_PO:      0.41883
+ Network-accessible  
+S_AC_A^2      3174.12
+S_AC_m^2/cm^3      1085.77
+S_AC_m^2/g       697.66
+ Network-accessible  
+V_He_A^3    19669.966
+V_He_cm^3/g        0.432
+V_G_A^3    15179.768
+V_G cm^3/g:        0.334
+V_PO A^3:    12160.513
+V_PO cm^3/g:        0.267
+FV_PO:      0.41598

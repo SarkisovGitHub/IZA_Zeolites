@@ -1,0 +1,31 @@
+ IFO.xyz
+V_A^3    44451.443
+M _g/mol    46145.280
+RHO_g/cm^3        1.724
+PLD_A         6.88
+LCD_A         7.35
+ D            1
+ Total               
+S_AC_A^2      3663.58
+S_AC_m^2/cm^3       824.18
+S_AC_m^2/g       478.11
+ Total               
+V_He_A^3    24138.325
+V_He_cm^3/g        0.315
+V_G_A^3    20780.992
+V_G cm^3/g:        0.271
+V_PO A^3:    14677.615
+V_PO cm^3/g:        0.192
+FV_PO:      0.33019
+ Network-accessible  
+S_AC_A^2      3716.20
+S_AC_m^2/cm^3       836.01
+S_AC_m^2/g       484.98
+ Network-accessible  
+V_He_A^3    24138.325
+V_He_cm^3/g        0.315
+V_G_A^3    20780.248
+V_G cm^3/g:        0.271
+V_PO A^3:    14814.239
+V_PO cm^3/g:        0.193
+FV_PO:      0.33327

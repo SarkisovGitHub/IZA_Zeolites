@@ -1,0 +1,31 @@
+ EEI.xyz
+V_A^3    44614.117
+M _g/mol    48068.000
+RHO_g/cm^3        1.789
+PLD_A         2.40
+LCD_A         6.41
+ D            1
+ Total               
+S_AC_A^2      1993.79
+S_AC_m^2/cm^3       446.90
+S_AC_m^2/g       249.79
+ Total               
+V_He_A^3    21623.564
+V_He_cm^3/g        0.271
+V_G_A^3    19915.599
+V_G cm^3/g:        0.250
+V_PO A^3:    11318.035
+V_PO cm^3/g:        0.142
+FV_PO:      0.25369
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    21623.564
+V_He_cm^3/g        0.271
+V_G_A^3    19915.599
+V_G cm^3/g:        0.250
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

@@ -1,0 +1,31 @@
+ SIV.xyz
+V_A^3    23464.423
+M _g/mol    23072.640
+RHO_g/cm^3        1.633
+PLD_A         3.23
+LCD_A         4.88
+ D            1
+ Total               
+S_AC_A^2       230.19
+S_AC_m^2/cm^3        98.10
+S_AC_m^2/g        60.08
+ Total               
+V_He_A^3    18677.593
+V_He_cm^3/g        0.487
+V_G_A^3    11621.457
+V_G cm^3/g:        0.303
+V_PO A^3:     8859.037
+V_PO cm^3/g:        0.231
+FV_PO:      0.37755
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    18677.593
+V_He_cm^3/g        0.487
+V_G_A^3    11621.457
+V_G cm^3/g:        0.303
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

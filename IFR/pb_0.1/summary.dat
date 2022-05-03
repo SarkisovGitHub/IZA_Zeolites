@@ -1,0 +1,31 @@
+ IFR.xyz
+V_A^3    29847.107
+M _g/mol    30763.520
+RHO_g/cm^3        1.712
+PLD_A         5.80
+LCD_A         6.70
+ D            1
+ Total               
+S_AC_A^2      2429.85
+S_AC_m^2/cm^3       814.10
+S_AC_m^2/g       475.66
+ Total               
+V_He_A^3    19926.625
+V_He_cm^3/g        0.390
+V_G_A^3    14040.226
+V_G cm^3/g:        0.275
+V_PO A^3:    10788.509
+V_PO cm^3/g:        0.211
+FV_PO:      0.36146
+ Network-accessible  
+S_AC_A^2      2344.97
+S_AC_m^2/cm^3       785.66
+S_AC_m^2/g       459.04
+ Network-accessible  
+V_He_A^3    19926.625
+V_He_cm^3/g        0.390
+V_G_A^3    14039.432
+V_G cm^3/g:        0.275
+V_PO A^3:    10828.614
+V_PO cm^3/g:        0.212
+FV_PO:      0.36280

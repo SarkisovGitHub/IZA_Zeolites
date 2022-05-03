@@ -1,0 +1,31 @@
+ DDR.xyz
+V_A^3    60442.742
+M _g/mol    64891.800
+RHO_g/cm^3        1.783
+PLD_A         3.10
+LCD_A         7.17
+ D            2
+ Total               
+S_AC_A^2      2414.29
+S_AC_m^2/cm^3       399.43
+S_AC_m^2/g       224.05
+ Total               
+V_He_A^3    41297.540
+V_He_cm^3/g        0.383
+V_G_A^3    27118.589
+V_G cm^3/g:        0.252
+V_PO A^3:    19861.654
+V_PO cm^3/g:        0.184
+FV_PO:      0.32860
+ Network-accessible  
+S_AC_A^2         0.00
+S_AC_m^2/cm^3         0.00
+S_AC_m^2/g         0.00
+ Network-accessible  
+V_He_A^3    41297.540
+V_He_cm^3/g        0.383
+V_G_A^3    27118.323
+V_G cm^3/g:        0.252
+V_PO A^3:        0.000
+V_PO cm^3/g:        0.000
+FV_PO:      0.00000

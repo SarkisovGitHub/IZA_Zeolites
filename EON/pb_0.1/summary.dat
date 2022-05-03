@@ -1,0 +1,31 @@
+ EON.xyz
+V_A^3    28504.145
+M _g/mol    28840.800
+RHO_g/cm^3        1.680
+PLD_A         6.13
+LCD_A         7.32
+ D            1
+ Total               
+S_AC_A^2      1505.27
+S_AC_m^2/cm^3       528.09
+S_AC_m^2/g       314.31
+ Total               
+V_He_A^3    19634.704
+V_He_cm^3/g        0.410
+V_G_A^3    13709.967
+V_G cm^3/g:        0.286
+V_PO A^3:     9080.111
+V_PO cm^3/g:        0.190
+FV_PO:      0.31855
+ Network-accessible  
+S_AC_A^2      1241.29
+S_AC_m^2/cm^3       435.48
+S_AC_m^2/g       259.19
+ Network-accessible  
+V_He_A^3    19634.704
+V_He_cm^3/g        0.410
+V_G_A^3    13709.967
+V_G cm^3/g:        0.286
+V_PO A^3:     5475.761
+V_PO cm^3/g:        0.114
+FV_PO:      0.19210
